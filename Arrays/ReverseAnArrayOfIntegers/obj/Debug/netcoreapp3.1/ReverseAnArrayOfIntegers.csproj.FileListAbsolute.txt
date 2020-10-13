@@ -1,0 +1,12 @@
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/bin/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.deps.json
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/bin/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.runtimeconfig.json
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/bin/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.runtimeconfig.dev.json
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/bin/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.dll
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/bin/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.pdb
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/obj/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.csprojAssemblyReference.cache
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/obj/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.AssemblyInfoInputs.cache
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/obj/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.AssemblyInfo.cs
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/obj/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/obj/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.dll
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/obj/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.pdb
+/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/obj/Debug/netcoreapp3.1/ReverseAnArrayOfIntegers.genruntimeconfig.cache

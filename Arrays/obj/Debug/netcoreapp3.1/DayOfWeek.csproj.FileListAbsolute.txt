@@ -1,0 +1,12 @@
+/Users/user/Desktop/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/DayOfWeek.csprojAssemblyReference.cache
+/Users/user/Desktop/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/DayOfWeek.AssemblyInfoInputs.cache
+/Users/user/Desktop/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/DayOfWeek.AssemblyInfo.cs
+/Users/user/Desktop/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/DayOfWeek.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Fundamentals/Arrays/bin/Debug/netcoreapp3.1/DayOfWeek.deps.json
+/Users/user/Desktop/Fundamentals/Arrays/bin/Debug/netcoreapp3.1/DayOfWeek.runtimeconfig.json
+/Users/user/Desktop/Fundamentals/Arrays/bin/Debug/netcoreapp3.1/DayOfWeek.runtimeconfig.dev.json
+/Users/user/Desktop/Fundamentals/Arrays/bin/Debug/netcoreapp3.1/DayOfWeek.dll
+/Users/user/Desktop/Fundamentals/Arrays/bin/Debug/netcoreapp3.1/DayOfWeek.pdb
+/Users/user/Desktop/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/DayOfWeek.dll
+/Users/user/Desktop/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/DayOfWeek.pdb
+/Users/user/Desktop/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/DayOfWeek.genruntimeconfig.cache
