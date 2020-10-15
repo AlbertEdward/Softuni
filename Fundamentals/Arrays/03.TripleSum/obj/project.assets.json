@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Fundamentals/Arrays/03.TripleSum/03.TripleSum.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/03.TripleSum.csproj",
       "projectName": "03.TripleSum",
-      "projectPath": "/Users/user/Desktop/Fundamentals/Arrays/03.TripleSum/03.TripleSum.csproj",
+      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/03.TripleSum.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Fundamentals/Arrays/03.TripleSum/obj/",
+      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/user/.config/NuGet/NuGet.Config"
+        "/Users/user/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

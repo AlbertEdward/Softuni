@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Fundamentals/Lists/05.SortNumbers.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Lists/05.SortNumbers.csproj",
       "projectName": "05.SortNumbers",
-      "projectPath": "/Users/user/Desktop/Fundamentals/Lists/05.SortNumbers.csproj",
+      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/05.SortNumbers.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Fundamentals/Lists/obj/",
+      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"

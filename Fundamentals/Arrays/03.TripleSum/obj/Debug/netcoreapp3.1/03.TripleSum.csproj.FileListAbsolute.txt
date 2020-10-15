@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/bin/Debug/netcoreapp3.1/03.TripleSum.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/bin/Debug/netcoreapp3.1/03.TripleSum.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/bin/Debug/netcoreapp3.1/03.TripleSum.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/bin/Debug/netcoreapp3.1/03.TripleSum.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/bin/Debug/netcoreapp3.1/03.TripleSum.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.TripleSum.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.TripleSum.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.TripleSum.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.TripleSum.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.TripleSum.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.TripleSum.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.TripleSum.genruntimeconfig.cache

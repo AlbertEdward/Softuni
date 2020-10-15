@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Fundamentals/Lists/06.SquareNumbers/06.SquareNumbers.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Lists/06.SquareNumbers/06.SquareNumbers.csproj",
       "projectName": "06.SquareNumbers",
-      "projectPath": "/Users/user/Desktop/Fundamentals/Lists/06.SquareNumbers/06.SquareNumbers.csproj",
+      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/06.SquareNumbers/06.SquareNumbers.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Fundamentals/Lists/06.SquareNumbers/obj/",
+      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/06.SquareNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"

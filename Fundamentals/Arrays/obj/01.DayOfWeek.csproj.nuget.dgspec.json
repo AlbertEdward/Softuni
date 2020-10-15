@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Fundamentals/Arrays/01.DayOfWeek.csproj": {}
+    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DayOfWeek.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Fundamentals/Arrays/01.DayOfWeek.csproj": {
+    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DayOfWeek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Fundamentals/Arrays/01.DayOfWeek.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DayOfWeek.csproj",
         "projectName": "01.DayOfWeek",
-        "projectPath": "/Users/user/Desktop/Fundamentals/Arrays/01.DayOfWeek.csproj",
+        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DayOfWeek.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Fundamentals/Arrays/obj/",
+        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

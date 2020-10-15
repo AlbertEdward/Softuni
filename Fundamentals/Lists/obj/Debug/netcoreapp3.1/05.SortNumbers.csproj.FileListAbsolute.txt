@@ -10,3 +10,9 @@
 /Users/user/Desktop/Fundamentals/Lists/obj/Debug/netcoreapp3.1/05.SortNumbers.dll
 /Users/user/Desktop/Fundamentals/Lists/obj/Debug/netcoreapp3.1/05.SortNumbers.pdb
 /Users/user/Desktop/Fundamentals/Lists/obj/Debug/netcoreapp3.1/05.SortNumbers.genruntimeconfig.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/obj/Debug/netcoreapp3.1/05.SortNumbers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/obj/Debug/netcoreapp3.1/05.SortNumbers.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/obj/Debug/netcoreapp3.1/05.SortNumbers.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Lists/obj/Debug/netcoreapp3.1/05.SortNumbers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/obj/Debug/netcoreapp3.1/05.SortNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/obj/Debug/netcoreapp3.1/05.SortNumbers.pdb

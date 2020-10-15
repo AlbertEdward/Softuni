@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/02.ReverseAnArrayOfIntegers.csproj": {}
+    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/ReverseAnArrayOfIntegers/02.ReverseAnArrayOfIntegers.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/02.ReverseAnArrayOfIntegers.csproj": {
+    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/ReverseAnArrayOfIntegers/02.ReverseAnArrayOfIntegers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/02.ReverseAnArrayOfIntegers.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/ReverseAnArrayOfIntegers/02.ReverseAnArrayOfIntegers.csproj",
         "projectName": "02.ReverseAnArrayOfIntegers",
-        "projectPath": "/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/02.ReverseAnArrayOfIntegers.csproj",
+        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/ReverseAnArrayOfIntegers/02.ReverseAnArrayOfIntegers.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Fundamentals/Arrays/ReverseAnArrayOfIntegers/obj/",
+        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/ReverseAnArrayOfIntegers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"
