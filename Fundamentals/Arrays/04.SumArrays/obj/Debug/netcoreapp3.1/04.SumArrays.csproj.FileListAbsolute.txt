@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/bin/Debug/netcoreapp3.1/04.SumArrays.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/bin/Debug/netcoreapp3.1/04.SumArrays.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/bin/Debug/netcoreapp3.1/04.SumArrays.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/bin/Debug/netcoreapp3.1/04.SumArrays.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/bin/Debug/netcoreapp3.1/04.SumArrays.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.SumArrays.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.SumArrays.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.SumArrays.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.SumArrays.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.SumArrays.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.SumArrays.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.SumArrays.genruntimeconfig.cache
