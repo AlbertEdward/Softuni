@@ -1,23 +1,29 @@
-﻿<Properties StartupConfiguration="{586F2745-82EB-4CA8-A9C4-4CF7876DA101}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{3526D6ED-44D0-4695-AFB9-87D1F05857EF}|Default">
+  <MonoDevelop.Ide.ItemProperties.08.LargestCommonEnd FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.06.ExtractMiddle12or3Elements FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01.DayOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="04.SumArrays/Program.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="04.SumArrays/Program.cs" Line="13" Column="1" />
+      <File FileName="07.LastKNumbersSumsSequence/Program.cs" Line="20" Column="14" />
+      <File FileName="08.LargestCommonEnd/08.LargestCommonEnd.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Arrays" expanded="True">
-            <Node name="02.ReverseAnArrayOfIntegers" selected="True" />
-            <Node name="03.TripleSum" expanded="True" />
-            <Node name="04.SumArrays" expanded="True" />
+            <Node name="08.LargestCommonEnd" expanded="True">
+              <Node name="08.LargestCommonEnd.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.07.LastKNumbersSumsSequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.CondenseArrayToNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.04.SumArrays FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.TripleSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.SumArrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
