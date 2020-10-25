@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/ReverseAnArrayOfIntegers/02.ReverseAnArrayOfIntegers.csproj",
-      "projectName": "02.ReverseAnArrayOfIntegers",
-      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/ReverseAnArrayOfIntegers/02.ReverseAnArrayOfIntegers.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/09.RotateAndSum/09.RotateAndSum.csproj",
+      "projectName": "09.RotateAndSum",
+      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/09.RotateAndSum/09.RotateAndSum.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/ReverseAnArrayOfIntegers/obj/",
+      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/09.RotateAndSum/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"

@@ -9,14 +9,14 @@ namespace _05.SumArray
     {
         static void Main(string[] args)
         {
-            
+
             int[] arr1 = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
             int[] arr2 = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
             int max = Math.Max(arr1.Length, arr2.Length);
 
-           
+
             int[] sumarr = new int[max];
 
             for (int i = 0; i < max; i++)
@@ -25,8 +25,8 @@ namespace _05.SumArray
             }
 
             Console.WriteLine(string.Join(" ", sumarr));
-            
-         
+
+
         }
     }
 }

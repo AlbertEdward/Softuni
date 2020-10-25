@@ -12,18 +12,18 @@ namespace _06.ExtractMiddle12or3Elements
 
             if (nums.Length == 1)
             {
-                System.Console.WriteLine($"{{ {nums[0]} }}");  
+                System.Console.WriteLine($"{{ {nums[0]} }}");
             }
             else if (nums.Length % 2 == 0)
             {
-                System.Console.WriteLine($"{{ {nums[(nums.Length/2) -1]}, {nums[(nums.Length/2)]} }}");  
-               
+                System.Console.WriteLine($"{{ {nums[(nums.Length / 2) - 1]}, {nums[(nums.Length / 2)]} }}");
+
             }
             else if (nums.Length % 2 == 1)
             {
-                System.Console.WriteLine($"{{ {nums[(nums.Length/2) -1]}, {nums[(nums.Length/2)]}, {nums[((nums.Length/2) + 1)]} }}");  
+                System.Console.WriteLine($"{{ {nums[(nums.Length / 2) - 1]}, {nums[(nums.Length / 2)]}, {nums[((nums.Length / 2) + 1)]} }}");
             }
-            
+
         }
     }
 }

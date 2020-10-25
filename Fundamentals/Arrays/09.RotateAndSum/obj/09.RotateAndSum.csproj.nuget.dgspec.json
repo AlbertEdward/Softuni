@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/04.SumArrays.csproj": {}
+    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/09.RotateAndSum/09.RotateAndSum.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/04.SumArrays.csproj": {
+    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/09.RotateAndSum/09.RotateAndSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/04.SumArrays.csproj",
-        "projectName": "04.SumArrays",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/04.SumArrays.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/09.RotateAndSum/09.RotateAndSum.csproj",
+        "projectName": "09.RotateAndSum",
+        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/09.RotateAndSum/09.RotateAndSum.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/",
+        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/09.RotateAndSum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

@@ -28,7 +28,7 @@ namespace _08.LargestCommonEnd
                     flagBegin = false;
                 }
 
-                if (arr1[arr1.Length - 1 - i] == arr2[arr2.Length - 1 - j]&& flagEnd)
+                if (arr1[arr1.Length - 1 - i] == arr2[arr2.Length - 1 - j] && flagEnd)
                 {
                     countEnd++;
                 }

@@ -1,29 +1,21 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{3526D6ED-44D0-4695-AFB9-87D1F05857EF}|Default">
-  <MonoDevelop.Ide.ItemProperties.08.LargestCommonEnd FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.06.ExtractMiddle12or3Elements FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.01.DayOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4DD63021-3F44-4772-94E3-BEE5DB604F9A}|Default">
   <MonoDevelop.Ide.Workbench>
-    <Files>
-      <File FileName="07.LastKNumbersSumsSequence/Program.cs" Line="20" Column="14" />
-      <File FileName="08.LargestCommonEnd/08.LargestCommonEnd.cs" Line="1" Column="1" />
-    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Arrays" expanded="True">
-            <Node name="08.LargestCommonEnd" expanded="True">
-              <Node name="08.LargestCommonEnd.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="Arrays" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>nums</Value>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.07.LastKNumbersSumsSequence PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.05.CondenseArrayToNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.DaysOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.03.TripleSum PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.04.SumArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.09.RotateAndSum FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

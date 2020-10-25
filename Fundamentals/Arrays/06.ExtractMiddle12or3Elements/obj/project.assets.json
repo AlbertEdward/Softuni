@@ -20,7 +20,7 @@
       "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/user/.nuget/NuGet/NuGet.Config"
+        "/Users/user/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

@@ -10,17 +10,14 @@ namespace _07.LastKNumbersSumsSequence
             int k = int.Parse(Console.ReadLine());
 
             int[] seq = new int[n];
+
             seq[0] = 1;
 
-            // 0 1 2 3 4 5          
-            // 1 1 2 4 7 13
-
-           
             for (int i = 1; i < n; i++)
             {
                 int result = 0;
 
-                for (int j = i -1; j >= 0 && j >= i -k; j--)
+                for (int j = i - 1; j >= 0 && j >= i - k; j--)
 
                 {
                     result += seq[j];
@@ -29,7 +26,7 @@ namespace _07.LastKNumbersSumsSequence
                 seq[i] = result;
             }
 
-            Console.WriteLine(string.Join(" ",seq));
+            Console.WriteLine(string.Join(" ", seq));
 
         }
     }
