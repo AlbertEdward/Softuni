@@ -1,25 +1,25 @@
-﻿<Properties StartupConfiguration="{CE7550B3-E0A2-42C8-8523-2D34D44A5253}|Default">
-  <MonoDevelop.Ide.ItemProperties.02.AppendLists FirstBuild="True" />
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{B5B0584A-0CF5-4E41-B09C-8477D6E28830}|Default">
   <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="10/10.ArrayManupulator.cs" Line="72" Column="35" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lists" expanded="True">
-            <Node name="01.RemoveNegativeAndReverese" expanded="True" />
-            <Node name="02.AppendLists" expanded="True">
-              <Node name="02.AppendLists.cs" selected="True" />
+            <Node name="10.ArrayManupulator" expanded="True">
+              <Node name="10.ArrayManupulator.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.01.RemoveNegativeAndReverese PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.ArrayManupulator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.05.SortNumbers PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

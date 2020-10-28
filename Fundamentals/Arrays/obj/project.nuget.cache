@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yLfHfGGE75n21NEnhg08jZtpsfduGLadGpdk2wGVZMt72qEb/ArNtSRhONYRaw/BTe+q2afW72fdR5aYr6aglA==",
+  "dgSpecHash": "q6XQkAXg+NknJ6vd2lZFw0nTI5Ii0YjUdgDFMaz5fp7NDmKQuPoLHlPLXnSmsUi5nyv5ZHm1x1wi3QuQCzl0nQ==",
   "success": true,
-  "projectFilePath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DayOfWeek.csproj",
+  "projectFilePath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DaysOfWeek.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

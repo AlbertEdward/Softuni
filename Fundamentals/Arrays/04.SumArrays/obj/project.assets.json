@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DaysOfWeek.csproj",
-      "projectName": "01.DaysOfWeek",
-      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DaysOfWeek.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/04.SumArrays.csproj",
+      "projectName": "04.SumArrays",
+      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/04.SumArrays.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/obj/",
+      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DaysOfWeek.csproj",
-      "projectName": "01.DaysOfWeek",
-      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DaysOfWeek.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.ReverceAnArrayOfIntegers.csproj",
+      "projectName": "02.ReverceAnArrayOfIntegers",
+      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.ReverceAnArrayOfIntegers.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/obj/",
+      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"

@@ -1,9 +1,11 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4DD63021-3F44-4772-94E3-BEE5DB604F9A}|Default">
+﻿<Properties StartupConfiguration="{6C9FC7FE-2A0D-4C1E-BF65-09E3F67A4FF2}|Default">
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Arrays" expanded="True" selected="True" />
+          <Node name="01.DaysOfWeek" expanded="True">
+            <Node name="01.DaysOfWeek" selected="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -15,7 +17,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.01.DaysOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.09.RotateAndSum FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
