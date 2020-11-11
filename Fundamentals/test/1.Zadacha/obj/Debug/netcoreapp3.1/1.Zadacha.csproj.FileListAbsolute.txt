@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/bin/Debug/netcoreapp3.1/1.Zadacha.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/bin/Debug/netcoreapp3.1/1.Zadacha.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/bin/Debug/netcoreapp3.1/1.Zadacha.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/bin/Debug/netcoreapp3.1/1.Zadacha.dll
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/bin/Debug/netcoreapp3.1/1.Zadacha.pdb
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/obj/Debug/netcoreapp3.1/1.Zadacha.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/obj/Debug/netcoreapp3.1/1.Zadacha.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/obj/Debug/netcoreapp3.1/1.Zadacha.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/obj/Debug/netcoreapp3.1/1.Zadacha.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/obj/Debug/netcoreapp3.1/1.Zadacha.dll
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/obj/Debug/netcoreapp3.1/1.Zadacha.pdb
+/Users/user/Desktop/Softunii/Fundamentals/test/1.Zadacha/obj/Debug/netcoreapp3.1/1.Zadacha.genruntimeconfig.cache

@@ -1,16 +1,10 @@
-﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{B5B0584A-0CF5-4E41-B09C-8477D6E28830}|Default">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{5BBCE9E3-B499-4306-B6B1-8E8EF1163873}|Default">
+  <MonoDevelop.Ide.ItemProperties.09.BombNumbers FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
-    <Files>
-      <File FileName="10/10.ArrayManupulator.cs" Line="72" Column="35" />
-    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Lists" expanded="True">
-            <Node name="10.ArrayManupulator" expanded="True">
-              <Node name="10.ArrayManupulator.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="Lists" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

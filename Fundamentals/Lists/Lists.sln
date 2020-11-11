@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ArrayManupulator", "10\10.ArrayManupulator.csproj", "{B5B0584A-0CF5-4E41-B09C-8477D6E28830}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.BombNumbers", "09.BombNumbers\09.BombNumbers.csproj", "{5BBCE9E3-B499-4306-B6B1-8E8EF1163873}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{B5B0584A-0CF5-4E41-B09C-8477D6E28830}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5B0584A-0CF5-4E41-B09C-8477D6E28830}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5B0584A-0CF5-4E41-B09C-8477D6E28830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BBCE9E3-B499-4306-B6B1-8E8EF1163873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBCE9E3-B499-4306-B6B1-8E8EF1163873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BBCE9E3-B499-4306-B6B1-8E8EF1163873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBCE9E3-B499-4306-B6B1-8E8EF1163873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
