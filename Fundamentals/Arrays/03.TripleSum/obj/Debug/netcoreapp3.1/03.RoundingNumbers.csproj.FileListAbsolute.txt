@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/bin/Debug/netcoreapp3.1/03.RoundingNumbers.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/bin/Debug/netcoreapp3.1/03.RoundingNumbers.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/bin/Debug/netcoreapp3.1/03.RoundingNumbers.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/bin/Debug/netcoreapp3.1/03.RoundingNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/bin/Debug/netcoreapp3.1/03.RoundingNumbers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.RoundingNumbers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.RoundingNumbers.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.RoundingNumbers.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.RoundingNumbers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.RoundingNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.RoundingNumbers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/Debug/netcoreapp3.1/03.RoundingNumbers.genruntimeconfig.cache

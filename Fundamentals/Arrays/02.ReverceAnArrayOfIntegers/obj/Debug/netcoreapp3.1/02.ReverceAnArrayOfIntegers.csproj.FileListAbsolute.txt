@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/bin/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/bin/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/bin/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/bin/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/bin/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/Debug/netcoreapp3.1/02.ReverceAnArrayOfIntegers.genruntimeconfig.cache

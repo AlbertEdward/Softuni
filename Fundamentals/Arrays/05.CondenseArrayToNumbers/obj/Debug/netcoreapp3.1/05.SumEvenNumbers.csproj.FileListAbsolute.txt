@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/bin/Debug/netcoreapp3.1/05.SumEvenNumbers.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/bin/Debug/netcoreapp3.1/05.SumEvenNumbers.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/bin/Debug/netcoreapp3.1/05.SumEvenNumbers.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/bin/Debug/netcoreapp3.1/05.SumEvenNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/bin/Debug/netcoreapp3.1/05.SumEvenNumbers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/obj/Debug/netcoreapp3.1/05.SumEvenNumbers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/obj/Debug/netcoreapp3.1/05.SumEvenNumbers.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/obj/Debug/netcoreapp3.1/05.SumEvenNumbers.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/obj/Debug/netcoreapp3.1/05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/obj/Debug/netcoreapp3.1/05.SumEvenNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/obj/Debug/netcoreapp3.1/05.SumEvenNumbers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/obj/Debug/netcoreapp3.1/05.SumEvenNumbers.genruntimeconfig.cache

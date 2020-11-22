@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/bin/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/bin/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/bin/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/bin/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/bin/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/04.SumArrays/obj/Debug/netcoreapp3.1/04.ReverseArrayOfStrings.genruntimeconfig.cache

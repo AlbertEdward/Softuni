@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/bin/Debug/netcoreapp3.1/07.EqualArrays.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/bin/Debug/netcoreapp3.1/07.EqualArrays.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/bin/Debug/netcoreapp3.1/07.EqualArrays.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/bin/Debug/netcoreapp3.1/07.EqualArrays.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/bin/Debug/netcoreapp3.1/07.EqualArrays.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/obj/Debug/netcoreapp3.1/07.EqualArrays.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/obj/Debug/netcoreapp3.1/07.EqualArrays.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/obj/Debug/netcoreapp3.1/07.EqualArrays.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/obj/Debug/netcoreapp3.1/07.EqualArrays.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/obj/Debug/netcoreapp3.1/07.EqualArrays.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/obj/Debug/netcoreapp3.1/07.EqualArrays.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/obj/Debug/netcoreapp3.1/07.EqualArrays.genruntimeconfig.cache

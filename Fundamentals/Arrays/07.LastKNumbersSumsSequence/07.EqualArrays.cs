@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace _07.LastKNumbersSumsSequence
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] arr1 = Console.ReadLine()
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
+            int[] arr2 = Console.ReadLine()
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
+            int sum = 0;
+            int total = 0;
+
+              for (int i = 0; i <= arr1.Length - 1; i++)
+            {
+                if (arr1[i] != arr2[i])
+                {
+                    int index = Array.IndexOf(arr1, i + 1);
+                    Console.WriteLine(
+                        $"Arrays are not identical. Found difference at {index} index");
+                    break;
+                }
+                else
+                {
+                    sum = arr1[i];
+                    total += sum;
+                }
+                
+                
+            }
+            Console.WriteLine($"Arrays are identical. Sum: {total}");
+
+        }
+    }
+}

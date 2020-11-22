@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/bin/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/bin/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/bin/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/bin/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/bin/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/obj/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/obj/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/obj/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/obj/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/obj/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/obj/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/obj/Debug/netcoreapp3.1/06.EvenAndOddSubtraction.genruntimeconfig.cache
