@@ -28,7 +28,7 @@ namespace _07.LastKNumbersSumsSequence
                     int index = Array.IndexOf(arr1, i + 1);
                     Console.WriteLine(
                         $"Arrays are not identical. Found difference at {index} index");
-                    break;
+                    return;
                 }
                 else
                 {

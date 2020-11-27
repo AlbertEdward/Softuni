@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/03.RoundingNumbers.csproj": {}
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/03.TripleSum/03.RoundingNumbers.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/03.RoundingNumbers.csproj": {
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/03.TripleSum/03.RoundingNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/03.RoundingNumbers.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/03.TripleSum/03.RoundingNumbers.csproj",
         "projectName": "03.RoundingNumbers",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/03.RoundingNumbers.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/03.TripleSum/03.RoundingNumbers.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/03.TripleSum/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/03.TripleSum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

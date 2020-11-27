@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/05.SumEvenNumbers.csproj": {}
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/05.CondenseArrayToNumbers/05.SumEvenNumbers.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/05.SumEvenNumbers.csproj": {
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/05.CondenseArrayToNumbers/05.SumEvenNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/05.SumEvenNumbers.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/05.CondenseArrayToNumbers/05.SumEvenNumbers.csproj",
         "projectName": "05.SumEvenNumbers",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/05.SumEvenNumbers.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/05.CondenseArrayToNumbers/05.SumEvenNumbers.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/05.CondenseArrayToNumbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

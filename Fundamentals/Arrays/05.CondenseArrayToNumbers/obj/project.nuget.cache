@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YAiFRy8hgaTsjXgkNI0WQelhGSlMs0+eAd9zbfko9GRUb7w0coviBjGAk9KQ1bVQgsWtiaXYcjFU13N5VuHoYw==",
+  "dgSpecHash": "XvrIBgCda8HDI0zTbb0AkXhxe301EcxQeLcXKrBWEbvetRtw7s7WU8cVq+s7D6iouDCUpebKUQI6MjuT4Fcq2g==",
   "success": true,
-  "projectFilePath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/05.CondenseArrayToNumbers/05.CondenseArrayToNumbers.csproj",
+  "projectFilePath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/05.CondenseArrayToNumbers/05.SumEvenNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

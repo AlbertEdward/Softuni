@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/07.EqualArrays.csproj": {}
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/07.LastKNumbersSumsSequence/07.EqualArrays.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/07.EqualArrays.csproj": {
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/07.LastKNumbersSumsSequence/07.EqualArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/07.EqualArrays.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/07.LastKNumbersSumsSequence/07.EqualArrays.csproj",
         "projectName": "07.EqualArrays",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/07.EqualArrays.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/07.LastKNumbersSumsSequence/07.EqualArrays.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/07.LastKNumbersSumsSequence/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/07.LastKNumbersSumsSequence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

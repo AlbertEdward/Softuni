@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GmYHcxECtucRoaCV6BNGbW+TmPVHt/2xiLiLWtHf9Tw67/D4jPOxoO+XrW71uzT4DzmQCHAqJoQfwRJwzgKclg==",
+  "dgSpecHash": "A8hT25H0wfe2CP7j6C8gncJmqyUb+bUkqcNiKcjQVt4kHgZ6e3DZq1JDQtClXzpw3U3vl5Shm8v2baHQr8CxoQ==",
   "success": true,
-  "projectFilePath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/08.LargestCommonEnd/08.LargestCommonEnd.csproj",
+  "projectFilePath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/08.LargestCommonEnd/08.CondenseArrayToNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

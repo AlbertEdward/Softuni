@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/08.LargestCommonEnd/08.CondenseArrayToNumber.csproj": {}
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/08.LargestCommonEnd/08.CondenseArrayToNumber.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/08.LargestCommonEnd/08.CondenseArrayToNumber.csproj": {
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/08.LargestCommonEnd/08.CondenseArrayToNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/08.LargestCommonEnd/08.CondenseArrayToNumber.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/08.LargestCommonEnd/08.CondenseArrayToNumber.csproj",
         "projectName": "08.CondenseArrayToNumber",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/08.LargestCommonEnd/08.CondenseArrayToNumber.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/08.LargestCommonEnd/08.CondenseArrayToNumber.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/08.LargestCommonEnd/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/08.LargestCommonEnd/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

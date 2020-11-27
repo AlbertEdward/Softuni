@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.PrintNumbersInReverseOrder.csproj": {}
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.PrintNumbersInReverseOrder.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.PrintNumbersInReverseOrder.csproj": {
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.PrintNumbersInReverseOrder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.PrintNumbersInReverseOrder.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.PrintNumbersInReverseOrder.csproj",
         "projectName": "02.PrintNumbersInReverseOrder",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.PrintNumbersInReverseOrder.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.PrintNumbersInReverseOrder.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

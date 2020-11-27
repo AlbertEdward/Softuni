@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DaysOfWeek.csproj": {}
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/01.DaysOfWeek.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DaysOfWeek.csproj": {
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/01.DaysOfWeek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DaysOfWeek.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/01.DaysOfWeek.csproj",
         "projectName": "01.DaysOfWeek",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/01.DaysOfWeek.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/01.DaysOfWeek.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DaysOfWeek", "01.DaysOfWeek.csproj", "{4DD63021-3F44-4772-94E3-BEE5DB604F9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReverceAnArrayOfIntegers", "02.ReverceAnArrayOfIntegers\02.ReverceAnArrayOfIntegers.csproj", "{973268D3-7AC4-4F16-998B-F2C4339D3137}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PrintNumbersInReverseOrder", "02.ReverceAnArrayOfIntegers\02.PrintNumbersInReverseOrder.csproj", "{973268D3-7AC4-4F16-998B-F2C4339D3137}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TripleSum", "03.TripleSum\03.TripleSum.csproj", "{F7D4262A-FE2A-4A29-B901-54CE8771CC56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RoundingNumbers", "03.TripleSum\03.RoundingNumbers.csproj", "{F7D4262A-FE2A-4A29-B901-54CE8771CC56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumArrays", "04.SumArrays\04.SumArrays.csproj", "{F2A555C2-64FA-4DF2-9AC2-4DC2D2B69015}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ReverseArrayOfStrings", "04.SumArrays\04.ReverseArrayOfStrings.csproj", "{F2A555C2-64FA-4DF2-9AC2-4DC2D2B69015}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CondenseArrayToNumbers", "05.CondenseArrayToNumbers\05.CondenseArrayToNumbers.csproj", "{152C6C5D-5B3B-44F7-94C4-83DC27B252FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SumEvenNumbers", "05.CondenseArrayToNumbers\05.SumEvenNumbers.csproj", "{152C6C5D-5B3B-44F7-94C4-83DC27B252FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ExtractMiddle12or3Elements", "06.ExtractMiddle12or3Elements\06.ExtractMiddle12or3Elements.csproj", "{EC3C0804-8CDA-4A11-9F3C-766D0449E1E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EvenAndOddSubtraction", "06.ExtractMiddle12or3Elements\06.EvenAndOddSubtraction.csproj", "{EC3C0804-8CDA-4A11-9F3C-766D0449E1E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.LastKNumbersSumsSequence", "07.LastKNumbersSumsSequence\07.LastKNumbersSumsSequence.csproj", "{E697A0E8-8ABB-4F94-A311-B18F694AA444}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.EqualArrays", "07.LastKNumbersSumsSequence\07.EqualArrays.csproj", "{E697A0E8-8ABB-4F94-A311-B18F694AA444}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.LargestCommonEnd", "08.LargestCommonEnd\08.LargestCommonEnd.csproj", "{7AFBB0F0-220B-41B1-908F-91FEA287659D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CondenseArrayToNumber", "08.LargestCommonEnd\08.CondenseArrayToNumber.csproj", "{7AFBB0F0-220B-41B1-908F-91FEA287659D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.RotateAndSum", "09.RotateAndSum\09.RotateAndSum.csproj", "{F42C71B6-B7E0-4F64-BD7D-5E6EB2D857F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Train", "10.Train\1.Train.csproj", "{86D63585-F702-400C-AA1C-A3B93D42960F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.CommonElements", "2.CommonElements\2.CommonElements.csproj", "{ECFDC8DF-B310-40FE-854F-CCBEFF4EFEFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,9 +59,13 @@ Global
 		{7AFBB0F0-220B-41B1-908F-91FEA287659D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AFBB0F0-220B-41B1-908F-91FEA287659D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AFBB0F0-220B-41B1-908F-91FEA287659D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F42C71B6-B7E0-4F64-BD7D-5E6EB2D857F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F42C71B6-B7E0-4F64-BD7D-5E6EB2D857F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F42C71B6-B7E0-4F64-BD7D-5E6EB2D857F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F42C71B6-B7E0-4F64-BD7D-5E6EB2D857F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D63585-F702-400C-AA1C-A3B93D42960F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D63585-F702-400C-AA1C-A3B93D42960F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D63585-F702-400C-AA1C-A3B93D42960F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D63585-F702-400C-AA1C-A3B93D42960F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFDC8DF-B310-40FE-854F-CCBEFF4EFEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFDC8DF-B310-40FE-854F-CCBEFF4EFEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFDC8DF-B310-40FE-854F-CCBEFF4EFEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFDC8DF-B310-40FE-854F-CCBEFF4EFEFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

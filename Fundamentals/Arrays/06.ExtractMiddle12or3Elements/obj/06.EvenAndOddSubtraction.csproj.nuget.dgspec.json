@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/06.EvenAndOddSubtraction.csproj": {}
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/06.EvenAndOddSubtraction.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/06.EvenAndOddSubtraction.csproj": {
+    "/Users/user/Desktop/Softuni/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/06.EvenAndOddSubtraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/06.EvenAndOddSubtraction.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/06.EvenAndOddSubtraction.csproj",
         "projectName": "06.EvenAndOddSubtraction",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/06.EvenAndOddSubtraction.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/06.EvenAndOddSubtraction.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/06.ExtractMiddle12or3Elements/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

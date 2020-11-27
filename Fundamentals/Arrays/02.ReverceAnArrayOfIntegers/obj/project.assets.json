@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.ReverceAnArrayOfIntegers.csproj",
-      "projectName": "02.ReverceAnArrayOfIntegers",
-      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.ReverceAnArrayOfIntegers.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.PrintNumbersInReverseOrder.csproj",
+      "projectName": "02.PrintNumbersInReverseOrder",
+      "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/02.PrintNumbersInReverseOrder.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/",
+      "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Arrays/02.ReverceAnArrayOfIntegers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,6 +42,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -56,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
