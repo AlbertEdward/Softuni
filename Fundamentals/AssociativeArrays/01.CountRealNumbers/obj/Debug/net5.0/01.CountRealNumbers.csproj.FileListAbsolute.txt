@@ -1,0 +1,15 @@
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/bin/Debug/net5.0/01.CountRealNumbers.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/bin/Debug/net5.0/01.CountRealNumbers.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/bin/Debug/net5.0/01.CountRealNumbers.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/bin/Debug/net5.0/01.CountRealNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/bin/Debug/net5.0/ref/01.CountRealNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/bin/Debug/net5.0/01.CountRealNumbers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/obj/Debug/net5.0/01.CountRealNumbers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/obj/Debug/net5.0/01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/obj/Debug/net5.0/01.CountRealNumbers.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/obj/Debug/net5.0/01.CountRealNumbers.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/obj/Debug/net5.0/01.CountRealNumbers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/obj/Debug/net5.0/01.CountRealNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/obj/Debug/net5.0/ref/01.CountRealNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/obj/Debug/net5.0/01.CountRealNumbers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/AssociativeArrays/01.CountRealNumbers/obj/Debug/net5.0/01.CountRealNumbers.genruntimeconfig.cache

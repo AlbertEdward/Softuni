@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.genruntimeconfig.cache

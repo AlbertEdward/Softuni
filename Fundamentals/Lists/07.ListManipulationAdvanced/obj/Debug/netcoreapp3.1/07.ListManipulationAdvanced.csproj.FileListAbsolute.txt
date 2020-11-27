@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/bin/Debug/netcoreapp3.1/07.ListManipulationAdvanced.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/bin/Debug/netcoreapp3.1/07.ListManipulationAdvanced.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/bin/Debug/netcoreapp3.1/07.ListManipulationAdvanced.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/bin/Debug/netcoreapp3.1/07.ListManipulationAdvanced.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/bin/Debug/netcoreapp3.1/07.ListManipulationAdvanced.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/obj/Debug/netcoreapp3.1/07.ListManipulationAdvanced.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/obj/Debug/netcoreapp3.1/07.ListManipulationAdvanced.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/obj/Debug/netcoreapp3.1/07.ListManipulationAdvanced.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/obj/Debug/netcoreapp3.1/07.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/obj/Debug/netcoreapp3.1/07.ListManipulationAdvanced.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/obj/Debug/netcoreapp3.1/07.ListManipulationAdvanced.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/obj/Debug/netcoreapp3.1/07.ListManipulationAdvanced.genruntimeconfig.cache

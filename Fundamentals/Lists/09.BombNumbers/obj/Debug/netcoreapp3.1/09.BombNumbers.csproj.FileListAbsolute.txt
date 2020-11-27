@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/bin/Debug/netcoreapp3.1/09.BombNumbers.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/bin/Debug/netcoreapp3.1/09.BombNumbers.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/bin/Debug/netcoreapp3.1/09.BombNumbers.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/bin/Debug/netcoreapp3.1/09.BombNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/bin/Debug/netcoreapp3.1/09.BombNumbers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/obj/Debug/netcoreapp3.1/09.BombNumbers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/obj/Debug/netcoreapp3.1/09.BombNumbers.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/obj/Debug/netcoreapp3.1/09.BombNumbers.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/obj/Debug/netcoreapp3.1/09.BombNumbers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/obj/Debug/netcoreapp3.1/09.BombNumbers.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/obj/Debug/netcoreapp3.1/09.BombNumbers.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/obj/Debug/netcoreapp3.1/09.BombNumbers.genruntimeconfig.cache

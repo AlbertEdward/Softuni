@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./obj/Debug/netcoreapp3.1/10.ArrayManupulator.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./obj/Debug/netcoreapp3.1/10.ArrayManupulator.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./obj/Debug/netcoreapp3.1/10.ArrayManupulator.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./obj/Debug/netcoreapp3.1/10.ArrayManupulator.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./bin/Debug/netcoreapp3.1/10.ArrayManupulator.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./bin/Debug/netcoreapp3.1/10.ArrayManupulator.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./bin/Debug/netcoreapp3.1/10.ArrayManupulator.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./bin/Debug/netcoreapp3.1/10.ArrayManupulator.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./bin/Debug/netcoreapp3.1/10.ArrayManupulator.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./obj/Debug/netcoreapp3.1/10.ArrayManupulator.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./obj/Debug/netcoreapp3.1/10.ArrayManupulator.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/01./obj/Debug/netcoreapp3.1/10.ArrayManupulator.genruntimeconfig.cache

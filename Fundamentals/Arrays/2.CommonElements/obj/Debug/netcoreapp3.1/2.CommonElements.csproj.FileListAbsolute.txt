@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/bin/Debug/netcoreapp3.1/2.CommonElements.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/bin/Debug/netcoreapp3.1/2.CommonElements.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/bin/Debug/netcoreapp3.1/2.CommonElements.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/bin/Debug/netcoreapp3.1/2.CommonElements.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/bin/Debug/netcoreapp3.1/2.CommonElements.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/obj/Debug/netcoreapp3.1/2.CommonElements.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/obj/Debug/netcoreapp3.1/2.CommonElements.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/obj/Debug/netcoreapp3.1/2.CommonElements.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/obj/Debug/netcoreapp3.1/2.CommonElements.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/obj/Debug/netcoreapp3.1/2.CommonElements.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/obj/Debug/netcoreapp3.1/2.CommonElements.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/2.CommonElements/obj/Debug/netcoreapp3.1/2.CommonElements.genruntimeconfig.cache

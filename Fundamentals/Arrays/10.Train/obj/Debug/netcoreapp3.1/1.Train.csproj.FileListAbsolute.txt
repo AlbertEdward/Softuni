@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/bin/Debug/netcoreapp3.1/1.Train.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/bin/Debug/netcoreapp3.1/1.Train.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/bin/Debug/netcoreapp3.1/1.Train.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/bin/Debug/netcoreapp3.1/1.Train.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/bin/Debug/netcoreapp3.1/1.Train.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/obj/Debug/netcoreapp3.1/1.Train.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/obj/Debug/netcoreapp3.1/1.Train.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/obj/Debug/netcoreapp3.1/1.Train.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/obj/Debug/netcoreapp3.1/1.Train.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/obj/Debug/netcoreapp3.1/1.Train.dll
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/obj/Debug/netcoreapp3.1/1.Train.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Arrays/10.Train/obj/Debug/netcoreapp3.1/1.Train.genruntimeconfig.cache

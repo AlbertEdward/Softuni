@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/bin/Debug/netcoreapp3.1/04.ListOfProducts.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/bin/Debug/netcoreapp3.1/04.ListOfProducts.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/bin/Debug/netcoreapp3.1/04.ListOfProducts.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/bin/Debug/netcoreapp3.1/04.ListOfProducts.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/bin/Debug/netcoreapp3.1/04.ListOfProducts.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/obj/Debug/netcoreapp3.1/04.ListOfProducts.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/obj/Debug/netcoreapp3.1/04.ListOfProducts.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/obj/Debug/netcoreapp3.1/04.ListOfProducts.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/obj/Debug/netcoreapp3.1/04.ListOfProducts.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/obj/Debug/netcoreapp3.1/04.ListOfProducts.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/obj/Debug/netcoreapp3.1/04.ListOfProducts.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/obj/Debug/netcoreapp3.1/04.ListOfProducts.genruntimeconfig.cache

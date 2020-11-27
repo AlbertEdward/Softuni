@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/bin/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.deps.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/bin/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.runtimeconfig.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/bin/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.runtimeconfig.dev.json
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/bin/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/bin/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.csprojAssemblyReference.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.AssemblyInfo.cs
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.dll
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.pdb
+/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/05.RemoveNegativesAndReverse.genruntimeconfig.cache
