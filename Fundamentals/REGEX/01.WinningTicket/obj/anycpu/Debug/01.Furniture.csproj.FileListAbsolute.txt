@@ -1,0 +1,5 @@
+/Users/user/Desktop/Softuni/Fundamentals/REGEX/01.WinningTicket/bin/Debug/01.WinningTicket.exe
+/Users/user/Desktop/Softuni/Fundamentals/REGEX/01.WinningTicket/bin/Debug/01.WinningTicket.pdb
+/Users/user/Desktop/Softuni/Fundamentals/REGEX/01.WinningTicket/obj/anycpu/Debug/01.Furniture.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/REGEX/01.WinningTicket/obj/anycpu/Debug/01.WinningTicket.exe
+/Users/user/Desktop/Softuni/Fundamentals/REGEX/01.WinningTicket/obj/anycpu/Debug/01.WinningTicket.pdb

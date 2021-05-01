@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/01.SumAdjacentEqualNumbers.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Lists/01.SumAdjacentEqualNumbers/01.SumAdjacentEqualNumbers.csproj",
       "projectName": "01.SumAdjacentEqualNumbers",
-      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/01.SumAdjacentEqualNumbers.csproj",
+      "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/01.SumAdjacentEqualNumbers/01.SumAdjacentEqualNumbers.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/01.SumAdjacentEqualNumbers/obj/",
+      "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/01.SumAdjacentEqualNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/user/.nuget/NuGet/NuGet.Config"
+        "/Users/user/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

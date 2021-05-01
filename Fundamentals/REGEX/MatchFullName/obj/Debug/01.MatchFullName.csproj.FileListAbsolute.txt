@@ -1,0 +1,5 @@
+/Users/user/Desktop/Softuni/Fundamentals/REGEX/MatchFullName/bin/Debug/MatchFullName.exe
+/Users/user/Desktop/Softuni/Fundamentals/REGEX/MatchFullName/bin/Debug/MatchFullName.pdb
+/Users/user/Desktop/Softuni/Fundamentals/REGEX/MatchFullName/obj/Debug/01.MatchFullName.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/REGEX/MatchFullName/obj/Debug/MatchFullName.exe
+/Users/user/Desktop/Softuni/Fundamentals/REGEX/MatchFullName/obj/Debug/MatchFullName.pdb

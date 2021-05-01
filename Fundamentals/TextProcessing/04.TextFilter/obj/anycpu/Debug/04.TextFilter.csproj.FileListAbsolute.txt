@@ -1,0 +1,12 @@
+/Users/user/Projects/TextProcessing/04.TextFilter/bin/Debug/04.TextFilter.exe
+/Users/user/Projects/TextProcessing/04.TextFilter/bin/Debug/04.TextFilter.pdb
+/Users/user/Projects/TextProcessing/04.TextFilter/obj/anycpu/Debug/04.TextFilter.csprojAssemblyReference.cache
+/Users/user/Projects/TextProcessing/04.TextFilter/obj/anycpu/Debug/04.TextFilter.csproj.CoreCompileInputs.cache
+/Users/user/Projects/TextProcessing/04.TextFilter/obj/anycpu/Debug/04.TextFilter.exe
+/Users/user/Projects/TextProcessing/04.TextFilter/obj/anycpu/Debug/04.TextFilter.pdb
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/04.TextFilter/bin/Debug/04.TextFilter.exe
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/04.TextFilter/bin/Debug/04.TextFilter.pdb
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/04.TextFilter/obj/anycpu/Debug/04.TextFilter.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/04.TextFilter/obj/anycpu/Debug/04.TextFilter.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/04.TextFilter/obj/anycpu/Debug/04.TextFilter.exe
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/04.TextFilter/obj/anycpu/Debug/04.TextFilter.pdb

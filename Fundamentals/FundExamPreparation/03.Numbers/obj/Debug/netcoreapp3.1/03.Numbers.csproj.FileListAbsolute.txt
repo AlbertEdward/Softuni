@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/bin/Debug/netcoreapp3.1/03.Numbers.deps.json
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/bin/Debug/netcoreapp3.1/03.Numbers.runtimeconfig.json
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/bin/Debug/netcoreapp3.1/03.Numbers.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/bin/Debug/netcoreapp3.1/03.Numbers.dll
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/bin/Debug/netcoreapp3.1/03.Numbers.pdb
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.dll
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.pdb
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{069A0072-9BB7-4CBD-8524-B84E13596AEC}|Default">
+  <MonoDevelop.Ide.ItemProperties.123 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Problem FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.Problem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.Problem/Program.cs">
+    <Files>
+      <File FileName="02.Problem/Program.cs" Line="28" Column="48" />
+      <File FileName="3/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FINALEXAM" expanded="True">
+            <Node name="01.Problem" expanded="True">
+              <Node name="FINALEXAM.cs" selected="True" />
+            </Node>
+            <Node name="02.Problem" expanded="True" />
+            <Node name="123" expanded="True" />
+            <Node name="3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/02.Problem/Program.cs" relfile="02.Problem/Program.cs" line="19" column="17" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

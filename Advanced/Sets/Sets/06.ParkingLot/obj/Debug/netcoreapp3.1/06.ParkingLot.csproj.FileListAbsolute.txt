@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/bin/Debug/netcoreapp3.1/06.ParkingLot.deps.json
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/bin/Debug/netcoreapp3.1/06.ParkingLot.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/bin/Debug/netcoreapp3.1/06.ParkingLot.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/bin/Debug/netcoreapp3.1/06.ParkingLot.dll
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/bin/Debug/netcoreapp3.1/06.ParkingLot.pdb
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/obj/Debug/netcoreapp3.1/06.ParkingLot.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/obj/Debug/netcoreapp3.1/06.ParkingLot.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/obj/Debug/netcoreapp3.1/06.ParkingLot.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/obj/Debug/netcoreapp3.1/06.ParkingLot.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/obj/Debug/netcoreapp3.1/06.ParkingLot.dll
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/obj/Debug/netcoreapp3.1/06.ParkingLot.pdb
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/06.ParkingLot/obj/Debug/netcoreapp3.1/06.ParkingLot.genruntimeconfig.cache

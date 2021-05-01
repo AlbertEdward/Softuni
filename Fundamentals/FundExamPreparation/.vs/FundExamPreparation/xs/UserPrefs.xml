@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1B958EB0-5CB1-4E6D-9EC6-4B9093D86382}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.ArrayModifier PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FundExamPreparation" expanded="True">
+            <Node name="01.SoftUniReception" expanded="True">
+              <Node name="01.SoftUniReception.cs" selected="True" />
+            </Node>
+            <Node name="02.ArrayModifier" expanded="True" />
+            <Node name="03.Numbers" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01.SoftUniReception PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/01.SoftUniReception.cs" relfile="01.SoftUniReception/01.SoftUniReception.cs" line="20" column="13" />
+      <Breakpoint file="/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/03.Numbers/03.Numbers.cs" relfile="03.Numbers/03.Numbers.cs" line="34" column="22" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

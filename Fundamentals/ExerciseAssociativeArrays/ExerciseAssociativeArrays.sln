@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountCharsInAString", "01.CountCharsInAString\01.CountCharsInAString.csproj", "{53C6F376-2FD5-4A3D-AFB1-D721349056C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53C6F376-2FD5-4A3D-AFB1-D721349056C3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{53C6F376-2FD5-4A3D-AFB1-D721349056C3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{53C6F376-2FD5-4A3D-AFB1-D721349056C3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{53C6F376-2FD5-4A3D-AFB1-D721349056C3}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EB7FA29-F788-4472-933C-CD28E6963DBF}
+	EndGlobalSection
+EndGlobal

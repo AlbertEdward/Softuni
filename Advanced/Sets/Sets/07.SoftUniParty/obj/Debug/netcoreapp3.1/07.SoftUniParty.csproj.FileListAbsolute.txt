@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/bin/Debug/netcoreapp3.1/07.SoftUniParty.deps.json
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/bin/Debug/netcoreapp3.1/07.SoftUniParty.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/bin/Debug/netcoreapp3.1/07.SoftUniParty.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/bin/Debug/netcoreapp3.1/07.SoftUniParty.dll
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/bin/Debug/netcoreapp3.1/07.SoftUniParty.pdb
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/obj/Debug/netcoreapp3.1/07.SoftUniParty.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/obj/Debug/netcoreapp3.1/07.SoftUniParty.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/obj/Debug/netcoreapp3.1/07.SoftUniParty.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/obj/Debug/netcoreapp3.1/07.SoftUniParty.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/obj/Debug/netcoreapp3.1/07.SoftUniParty.dll
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/obj/Debug/netcoreapp3.1/07.SoftUniParty.pdb
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/07.SoftUniParty/obj/Debug/netcoreapp3.1/07.SoftUniParty.genruntimeconfig.cache

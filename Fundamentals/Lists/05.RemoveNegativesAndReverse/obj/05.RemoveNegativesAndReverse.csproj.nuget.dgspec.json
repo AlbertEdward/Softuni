@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/05.RemoveNegativesAndReverse.csproj": {}
+    "/Users/user/Desktop/Softuni/Fundamentals/Lists/05.RemoveNegativesAndReverse/05.RemoveNegativesAndReverse.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/05.RemoveNegativesAndReverse.csproj": {
+    "/Users/user/Desktop/Softuni/Fundamentals/Lists/05.RemoveNegativesAndReverse/05.RemoveNegativesAndReverse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/05.RemoveNegativesAndReverse.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Lists/05.RemoveNegativesAndReverse/05.RemoveNegativesAndReverse.csproj",
         "projectName": "05.RemoveNegativesAndReverse",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/05.RemoveNegativesAndReverse.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/05.RemoveNegativesAndReverse/05.RemoveNegativesAndReverse.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/05.RemoveNegativesAndReverse/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/05.RemoveNegativesAndReverse/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

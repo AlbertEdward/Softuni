@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{236AEEDB-1BEB-42CB-94BD-8667A31F2624}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.Substring PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.RepeatStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.ReverseStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.DigitsLettersAndOther/05.DigitsLettersAndOther.cs">
+    <Files>
+      <File FileName="05.DigitsLettersAndOther/Program.cs" Line="12" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TextProcessing" expanded="True">
+            <Node name="05.DigitsLettersAndOther" expanded="True">
+              <Node name="05.DigitsLettersAndOther.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05.DigitsLettersAndOther PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/01.ReverseStrings/01.ReverseStrings.cs" relfile="01.ReverseStrings/01.ReverseStrings.cs" line="16" column="22" />
+      <Breakpoint file="/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/04.TextFilter/04.TextFilter.cs" relfile="04.TextFilter/04.TextFilter.cs" line="15" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.04.TextFilter PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
 namespace Race
 {
@@ -6,7 +7,16 @@ namespace Race
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string patternName = @"([a-zA-z]+)";
+            Regex regexName = new Regex(patternName);
+
+            string patternDistance = @"([0-9])";
+            Regex regexDistance = new Regex(patternDistance);
+
+            while ()
+            {
+
+            }
         }
     }
 }

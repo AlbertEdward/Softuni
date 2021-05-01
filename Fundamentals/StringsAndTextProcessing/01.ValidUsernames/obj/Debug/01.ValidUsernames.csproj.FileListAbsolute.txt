@@ -1,0 +1,6 @@
+/Users/user/Desktop/Softuni/Fundamentals/StringsAndTextProcessing/01.ValidUsernames/obj/Debug/01.ValidUsernames.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/StringsAndTextProcessing/01.ValidUsernames/obj/Debug/01.ValidUsernames.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/StringsAndTextProcessing/01.ValidUsernames/bin/Debug/01.ValidUsernames.exe
+/Users/user/Desktop/Softuni/Fundamentals/StringsAndTextProcessing/01.ValidUsernames/bin/Debug/01.ValidUsernames.pdb
+/Users/user/Desktop/Softuni/Fundamentals/StringsAndTextProcessing/01.ValidUsernames/obj/Debug/01.ValidUsernames.exe
+/Users/user/Desktop/Softuni/Fundamentals/StringsAndTextProcessing/01.ValidUsernames/obj/Debug/01.ValidUsernames.pdb

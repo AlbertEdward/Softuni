@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/bin/Debug/netcoreapp3.1/01.SoftUniReception.deps.json
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/bin/Debug/netcoreapp3.1/01.SoftUniReception.runtimeconfig.json
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/bin/Debug/netcoreapp3.1/01.SoftUniReception.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/bin/Debug/netcoreapp3.1/01.SoftUniReception.dll
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/bin/Debug/netcoreapp3.1/01.SoftUniReception.pdb
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/obj/Debug/netcoreapp3.1/01.SoftUniReception.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/obj/Debug/netcoreapp3.1/01.SoftUniReception.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/obj/Debug/netcoreapp3.1/01.SoftUniReception.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/obj/Debug/netcoreapp3.1/01.SoftUniReception.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/obj/Debug/netcoreapp3.1/01.SoftUniReception.dll
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/obj/Debug/netcoreapp3.1/01.SoftUniReception.pdb
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/01.SoftUniReception/obj/Debug/netcoreapp3.1/01.SoftUniReception.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/04.ListOfProducts.csproj": {}
+    "/Users/user/Desktop/Softuni/Fundamentals/Lists/04.ListOfProducts/04.ListOfProducts.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/04.ListOfProducts.csproj": {
+    "/Users/user/Desktop/Softuni/Fundamentals/Lists/04.ListOfProducts/04.ListOfProducts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/04.ListOfProducts.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Lists/04.ListOfProducts/04.ListOfProducts.csproj",
         "projectName": "04.ListOfProducts",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/04.ListOfProducts.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/04.ListOfProducts/04.ListOfProducts.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/04.ListOfProducts/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/04.ListOfProducts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

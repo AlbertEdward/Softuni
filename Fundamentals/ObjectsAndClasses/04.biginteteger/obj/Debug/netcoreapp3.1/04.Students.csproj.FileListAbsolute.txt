@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/bin/Debug/netcoreapp3.1/04.Students.deps.json
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/bin/Debug/netcoreapp3.1/04.Students.runtimeconfig.json
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/bin/Debug/netcoreapp3.1/04.Students.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/bin/Debug/netcoreapp3.1/04.Students.dll
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/bin/Debug/netcoreapp3.1/04.Students.pdb
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/obj/Debug/netcoreapp3.1/04.Students.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/obj/Debug/netcoreapp3.1/04.Students.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/obj/Debug/netcoreapp3.1/04.Students.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/obj/Debug/netcoreapp3.1/04.Students.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/obj/Debug/netcoreapp3.1/04.Students.dll
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/obj/Debug/netcoreapp3.1/04.Students.pdb
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/04.biginteteger/obj/Debug/netcoreapp3.1/04.Students.genruntimeconfig.cache

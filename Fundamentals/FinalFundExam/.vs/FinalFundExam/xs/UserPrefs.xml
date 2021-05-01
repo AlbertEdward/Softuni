@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8ADE97BD-62ED-4776-A64B-FCDCF3135BEE}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.ThePianist FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.AdAstra/02.AdAstra.cs">
+    <Files>
+      <File FileName="03.ThePianist/Program.cs" Line="9" Column="47" />
+      <File FileName="02.AdAstra/02.AdAstra.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalFundExam" expanded="True">
+            <Node name="01.TheImitationGame" expanded="True" />
+            <Node name="02.AdAstra" expanded="True">
+              <Node name="02.AdAstra.cs" selected="True" />
+            </Node>
+            <Node name="03.ThePianist" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.TheImitationGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02.AdAstra PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

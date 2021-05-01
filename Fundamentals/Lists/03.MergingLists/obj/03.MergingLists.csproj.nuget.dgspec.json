@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Lists/03.MergingLists/03.MergingLists.csproj": {}
+    "/Users/user/Desktop/Softuni/Fundamentals/Lists/03.MergingLists/03.MergingLists.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Lists/03.MergingLists/03.MergingLists.csproj": {
+    "/Users/user/Desktop/Softuni/Fundamentals/Lists/03.MergingLists/03.MergingLists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Lists/03.MergingLists/03.MergingLists.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Lists/03.MergingLists/03.MergingLists.csproj",
         "projectName": "03.MergingLists",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/03.MergingLists/03.MergingLists.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/03.MergingLists/03.MergingLists.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/03.MergingLists/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/03.MergingLists/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

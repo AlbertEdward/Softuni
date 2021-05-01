@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/bin/Debug/netcoreapp3.1/01.RandomizeWords.deps.json
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/bin/Debug/netcoreapp3.1/01.RandomizeWords.runtimeconfig.json
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/bin/Debug/netcoreapp3.1/01.RandomizeWords.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/bin/Debug/netcoreapp3.1/01.RandomizeWords.dll
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/bin/Debug/netcoreapp3.1/01.RandomizeWords.pdb
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/obj/Debug/netcoreapp3.1/01.RandomizeWords.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/obj/Debug/netcoreapp3.1/01.RandomizeWords.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/obj/Debug/netcoreapp3.1/01.RandomizeWords.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/obj/Debug/netcoreapp3.1/01.RandomizeWords.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/obj/Debug/netcoreapp3.1/01.RandomizeWords.dll
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/obj/Debug/netcoreapp3.1/01.RandomizeWords.pdb
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/01.RandomizeWords/obj/Debug/netcoreapp3.1/01.RandomizeWords.genruntimeconfig.cache

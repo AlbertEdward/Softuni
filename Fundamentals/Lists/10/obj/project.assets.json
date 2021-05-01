@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Lists/10/10.ArrayManupulator.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Lists/10/10.ArrayManupulator.csproj",
       "projectName": "10.ArrayManupulator",
-      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/10/10.ArrayManupulator.csproj",
+      "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/10/10.ArrayManupulator.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/10/obj/",
+      "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/10/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"

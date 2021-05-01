@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/bin/Debug/netcoreapp3.1/05.RecordUniqueNames.deps.json
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/bin/Debug/netcoreapp3.1/05.RecordUniqueNames.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/bin/Debug/netcoreapp3.1/05.RecordUniqueNames.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/bin/Debug/netcoreapp3.1/05.RecordUniqueNames.dll
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/bin/Debug/netcoreapp3.1/05.RecordUniqueNames.pdb
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/obj/Debug/netcoreapp3.1/05.RecordUniqueNames.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/obj/Debug/netcoreapp3.1/05.RecordUniqueNames.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/obj/Debug/netcoreapp3.1/05.RecordUniqueNames.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/obj/Debug/netcoreapp3.1/05.RecordUniqueNames.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/obj/Debug/netcoreapp3.1/05.RecordUniqueNames.dll
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/obj/Debug/netcoreapp3.1/05.RecordUniqueNames.pdb
+/Users/user/Desktop/Softuni/Advanced/Sets/Sets/05.RecordUniqueNames/obj/Debug/netcoreapp3.1/05.RecordUniqueNames.genruntimeconfig.cache

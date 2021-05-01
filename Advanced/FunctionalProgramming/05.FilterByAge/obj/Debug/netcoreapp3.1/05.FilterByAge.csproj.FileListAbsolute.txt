@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/bin/Debug/netcoreapp3.1/05.FilterByAge.deps.json
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/bin/Debug/netcoreapp3.1/05.FilterByAge.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/bin/Debug/netcoreapp3.1/05.FilterByAge.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/bin/Debug/netcoreapp3.1/05.FilterByAge.dll
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/bin/Debug/netcoreapp3.1/05.FilterByAge.pdb
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/obj/Debug/netcoreapp3.1/05.FilterByAge.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/obj/Debug/netcoreapp3.1/05.FilterByAge.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/obj/Debug/netcoreapp3.1/05.FilterByAge.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/obj/Debug/netcoreapp3.1/05.FilterByAge.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/obj/Debug/netcoreapp3.1/05.FilterByAge.dll
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/obj/Debug/netcoreapp3.1/05.FilterByAge.pdb
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/05.FilterByAge/obj/Debug/netcoreapp3.1/05.FilterByAge.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+/Users/user/Projects/TextProcessing/03.Substring/bin/Debug/03.Substring.exe
+/Users/user/Projects/TextProcessing/03.Substring/bin/Debug/03.Substring.pdb
+/Users/user/Projects/TextProcessing/03.Substring/obj/anycpu/Debug/03.Substring.csproj.CoreCompileInputs.cache
+/Users/user/Projects/TextProcessing/03.Substring/obj/anycpu/Debug/03.Substring.exe
+/Users/user/Projects/TextProcessing/03.Substring/obj/anycpu/Debug/03.Substring.pdb

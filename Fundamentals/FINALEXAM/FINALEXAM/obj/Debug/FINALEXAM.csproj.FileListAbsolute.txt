@@ -1,0 +1,6 @@
+/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/FINALEXAM/bin/Debug/FINALEXAM.exe
+/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/FINALEXAM/bin/Debug/FINALEXAM.pdb
+/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/FINALEXAM/obj/Debug/FINALEXAM.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/FINALEXAM/obj/Debug/FINALEXAM.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/FINALEXAM/obj/Debug/FINALEXAM.exe
+/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/FINALEXAM/obj/Debug/FINALEXAM.pdb

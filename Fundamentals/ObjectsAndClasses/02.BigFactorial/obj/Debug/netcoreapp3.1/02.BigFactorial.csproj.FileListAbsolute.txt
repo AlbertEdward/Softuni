@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/bin/Debug/netcoreapp3.1/02.BigFactorial.deps.json
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/bin/Debug/netcoreapp3.1/02.BigFactorial.runtimeconfig.json
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/bin/Debug/netcoreapp3.1/02.BigFactorial.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/bin/Debug/netcoreapp3.1/02.BigFactorial.dll
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/bin/Debug/netcoreapp3.1/02.BigFactorial.pdb
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/obj/Debug/netcoreapp3.1/02.BigFactorial.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/obj/Debug/netcoreapp3.1/02.BigFactorial.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/obj/Debug/netcoreapp3.1/02.BigFactorial.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/obj/Debug/netcoreapp3.1/02.BigFactorial.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/obj/Debug/netcoreapp3.1/02.BigFactorial.dll
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/obj/Debug/netcoreapp3.1/02.BigFactorial.pdb
+/Users/user/Desktop/Softuni/Fundamentals/ObjectsAndClasses/02.BigFactorial/obj/Debug/netcoreapp3.1/02.BigFactorial.genruntimeconfig.cache

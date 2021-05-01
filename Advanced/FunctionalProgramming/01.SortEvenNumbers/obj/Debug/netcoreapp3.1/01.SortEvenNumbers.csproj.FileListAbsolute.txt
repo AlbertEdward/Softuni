@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/bin/Debug/netcoreapp3.1/01.SortEvenNumbers.deps.json
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/bin/Debug/netcoreapp3.1/01.SortEvenNumbers.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/bin/Debug/netcoreapp3.1/01.SortEvenNumbers.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/bin/Debug/netcoreapp3.1/01.SortEvenNumbers.dll
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/bin/Debug/netcoreapp3.1/01.SortEvenNumbers.pdb
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/obj/Debug/netcoreapp3.1/01.SortEvenNumbers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/obj/Debug/netcoreapp3.1/01.SortEvenNumbers.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/obj/Debug/netcoreapp3.1/01.SortEvenNumbers.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/obj/Debug/netcoreapp3.1/01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/obj/Debug/netcoreapp3.1/01.SortEvenNumbers.dll
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/obj/Debug/netcoreapp3.1/01.SortEvenNumbers.pdb
+/Users/user/Desktop/Softuni/Advanced/FunctionalProgramming/01.SortEvenNumbers/obj/Debug/netcoreapp3.1/01.SortEvenNumbers.genruntimeconfig.cache

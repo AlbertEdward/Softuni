@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CAE1B253-0AF6-43EE-B027-4433BED147FD}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.SumMatrixColumns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.SumMatrixColumns/02.SumMatrixColumns.cs">
+    <Files>
+      <File FileName="01.SumMatrixElements/01.SumMatrixElements.cs" Line="36" Column="21" />
+      <File FileName="02.SumMatrixColumns/02.SumMatrixColumns.cs" Line="43" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultidimensionalArrays" expanded="True">
+            <Node name="01.SumMatrixElements" expanded="True" />
+            <Node name="02.SumMatrixColumns" expanded="True">
+              <Node name="02.SumMatrixColumns.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.01.SumMatrixElements PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

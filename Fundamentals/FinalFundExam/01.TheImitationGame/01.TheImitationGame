@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Text;
+using System.Linq;
+using System.Collections.Generic;
 
 namespace TheImitationGame
 {
@@ -6,7 +9,37 @@ namespace TheImitationGame
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string message = Console.ReadLine();
+            string command = Console.ReadLine();
+
+            while (command != "Decode")
+            {
+                string[] tokens = command.Split('|');
+
+                if (tokens[0] == "Move")
+                {
+                    int charactersCount = int.Parse(tokens[1]);
+                    string characters = message.Substring(0, charactersCount);
+                    message = message.Substring(charactersCount) + characters;
+                }
+                else if (tokens[0] == "Insert")
+                {
+                    int index = int.Parse(tokens[1]);
+                    string value = tokens[2];
+                    message = message.Insert(index, value);
+
+                }
+                else if (tokens[0] == "ChangeAll")
+                {
+                    while (message.Contains(tokens[1]))
+                    {
+                        message = message.Replace(tokens[1], tokens[2]);
+                    }
+                }
+                command = Console.ReadLine();
+            }
+
+            Console.WriteLine($"The decrypted message is: {message}");
         }
     }
 }

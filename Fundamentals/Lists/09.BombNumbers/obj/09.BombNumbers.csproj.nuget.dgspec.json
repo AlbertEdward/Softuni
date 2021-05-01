@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/09.BombNumbers.csproj": {}
+    "/Users/user/Desktop/Softuni/Fundamentals/Lists/09.BombNumbers/09.BombNumbers.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/09.BombNumbers.csproj": {
+    "/Users/user/Desktop/Softuni/Fundamentals/Lists/09.BombNumbers/09.BombNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/09.BombNumbers.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Lists/09.BombNumbers/09.BombNumbers.csproj",
         "projectName": "09.BombNumbers",
-        "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/09.BombNumbers.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/09.BombNumbers/09.BombNumbers.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/09.BombNumbers/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/09.BombNumbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

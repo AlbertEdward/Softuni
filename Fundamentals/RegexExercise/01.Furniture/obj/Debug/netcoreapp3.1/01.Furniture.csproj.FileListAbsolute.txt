@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/bin/Debug/netcoreapp3.1/01.Furniture.deps.json
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/bin/Debug/netcoreapp3.1/01.Furniture.runtimeconfig.json
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/bin/Debug/netcoreapp3.1/01.Furniture.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/bin/Debug/netcoreapp3.1/01.Furniture.dll
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/bin/Debug/netcoreapp3.1/01.Furniture.pdb
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/obj/Debug/netcoreapp3.1/01.Furniture.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/obj/Debug/netcoreapp3.1/01.Furniture.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/obj/Debug/netcoreapp3.1/01.Furniture.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/obj/Debug/netcoreapp3.1/01.Furniture.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/obj/Debug/netcoreapp3.1/01.Furniture.dll
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/obj/Debug/netcoreapp3.1/01.Furniture.pdb
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/01.Furniture/obj/Debug/netcoreapp3.1/01.Furniture.genruntimeconfig.cache

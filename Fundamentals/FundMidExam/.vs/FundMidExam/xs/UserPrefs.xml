@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7CD23D68-1AEA-49CE-8AD5-A9B5A12EACE5}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.Problem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Problem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FundMidExam" expanded="True">
+            <Node name="01.Problem" expanded="True">
+              <Node name="01.Problem.cs" selected="True" />
+            </Node>
+            <Node name="02.Problem" expanded="True" />
+            <Node name="03.Problem" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.Problem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

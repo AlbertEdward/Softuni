@@ -1,0 +1,6 @@
+/Users/user/Projects/TextProcessing/02.RepeatStrings/bin/Debug/02.RepeatStrings.exe
+/Users/user/Projects/TextProcessing/02.RepeatStrings/bin/Debug/02.RepeatStrings.pdb
+/Users/user/Projects/TextProcessing/02.RepeatStrings/obj/anycpu/Debug/02.RepeatStrings.csprojAssemblyReference.cache
+/Users/user/Projects/TextProcessing/02.RepeatStrings/obj/anycpu/Debug/02.RepeatStrings.csproj.CoreCompileInputs.cache
+/Users/user/Projects/TextProcessing/02.RepeatStrings/obj/anycpu/Debug/02.RepeatStrings.exe
+/Users/user/Projects/TextProcessing/02.RepeatStrings/obj/anycpu/Debug/02.RepeatStrings.pdb

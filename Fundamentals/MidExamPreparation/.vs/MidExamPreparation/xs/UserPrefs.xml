@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E59F5AC9-BA0A-45F3-B0DE-1FBA7F60FB5A}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.NationalCourt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.ShoppingList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.HeartDelivery PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MidExamPreparation" expanded="True">
+            <Node name="01.NationalCourt" expanded="True" />
+            <Node name="02.ShoppingList" expanded="True" />
+            <Node name="03.HeartDelivery" expanded="True">
+              <Node name="03.HeartDelivery.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/03.HeartDelivery/03.HeartDelivery.cs" relfile="03.HeartDelivery/03.HeartDelivery.cs" line="22" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

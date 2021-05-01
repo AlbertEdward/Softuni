@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/bin/Debug/netcoreapp3.1/02.ShoppingList.deps.json
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/bin/Debug/netcoreapp3.1/02.ShoppingList.runtimeconfig.json
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/bin/Debug/netcoreapp3.1/02.ShoppingList.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/bin/Debug/netcoreapp3.1/02.ShoppingList.dll
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/bin/Debug/netcoreapp3.1/02.ShoppingList.pdb
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/obj/Debug/netcoreapp3.1/02.ShoppingList.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/obj/Debug/netcoreapp3.1/02.ShoppingList.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/obj/Debug/netcoreapp3.1/02.ShoppingList.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/obj/Debug/netcoreapp3.1/02.ShoppingList.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/obj/Debug/netcoreapp3.1/02.ShoppingList.dll
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/obj/Debug/netcoreapp3.1/02.ShoppingList.pdb
+/Users/user/Desktop/Softuni/Fundamentals/MidExamPreparation/02.ShoppingList/obj/Debug/netcoreapp3.1/02.ShoppingList.genruntimeconfig.cache

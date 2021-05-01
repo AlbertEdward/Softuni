@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
 
 namespace _04.AddVAT
 {
@@ -6,7 +8,17 @@ namespace _04.AddVAT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double[] input = Console.ReadLine()
+                .Split(", ")
+                .Select(double.Parse)
+                .Select(x => x * 1.2)
+                .ToArray();
+
+
+            foreach (var price in input)
+            {
+                Console.WriteLine($"{price:f2}");
+            }
         }
     }
 }

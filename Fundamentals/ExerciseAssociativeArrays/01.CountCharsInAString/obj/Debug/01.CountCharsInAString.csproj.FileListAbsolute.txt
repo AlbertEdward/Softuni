@@ -1,0 +1,6 @@
+/Users/user/Desktop/Softuni/Fundamentals/ExerciseAssociativeArrays/01.CountCharsInAString/bin/Debug/01.CountCharsInAString.exe
+/Users/user/Desktop/Softuni/Fundamentals/ExerciseAssociativeArrays/01.CountCharsInAString/bin/Debug/01.CountCharsInAString.pdb
+/Users/user/Desktop/Softuni/Fundamentals/ExerciseAssociativeArrays/01.CountCharsInAString/obj/Debug/01.CountCharsInAString.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/ExerciseAssociativeArrays/01.CountCharsInAString/obj/Debug/01.CountCharsInAString.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/ExerciseAssociativeArrays/01.CountCharsInAString/obj/Debug/01.CountCharsInAString.exe
+/Users/user/Desktop/Softuni/Fundamentals/ExerciseAssociativeArrays/01.CountCharsInAString/obj/Debug/01.CountCharsInAString.pdb

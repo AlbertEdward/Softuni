@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/bin/Debug/netcoreapp3.1/1.MatchFullName.deps.json
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/bin/Debug/netcoreapp3.1/1.MatchFullName.runtimeconfig.json
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/bin/Debug/netcoreapp3.1/1.MatchFullName.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/bin/Debug/netcoreapp3.1/1.MatchFullName.dll
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/bin/Debug/netcoreapp3.1/1.MatchFullName.pdb
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/obj/Debug/netcoreapp3.1/1.MatchFullName.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/obj/Debug/netcoreapp3.1/1.MatchFullName.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/obj/Debug/netcoreapp3.1/1.MatchFullName.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/obj/Debug/netcoreapp3.1/1.MatchFullName.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/obj/Debug/netcoreapp3.1/1.MatchFullName.dll
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/obj/Debug/netcoreapp3.1/1.MatchFullName.pdb
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/1.MatchFullName/obj/Debug/netcoreapp3.1/1.MatchFullName.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/bin/Debug/netcoreapp3.1/01.OddLines.deps.json
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/bin/Debug/netcoreapp3.1/01.OddLines.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/bin/Debug/netcoreapp3.1/01.OddLines.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/bin/Debug/netcoreapp3.1/01.OddLines.dll
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/bin/Debug/netcoreapp3.1/01.OddLines.pdb
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/obj/Debug/netcoreapp3.1/01.OddLines.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/obj/Debug/netcoreapp3.1/01.OddLines.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/obj/Debug/netcoreapp3.1/01.OddLines.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/obj/Debug/netcoreapp3.1/01.OddLines.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/obj/Debug/netcoreapp3.1/01.OddLines.dll
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/obj/Debug/netcoreapp3.1/01.OddLines.pdb
+/Users/user/Desktop/Softuni/Advanced/StreamsFilesAndDirectories/01.OddLines/obj/Debug/netcoreapp3.1/01.OddLines.genruntimeconfig.cache

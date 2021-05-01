@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Furniture", "01.WinningTicket\01.Furniture.csproj", "{36BA03A5-3FD1-41B1-BD74-8B8C3CFE8427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Race", "02.Race\02.Race.csproj", "{72A4A8B4-F42B-4EDA-9F91-57EA860BCE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36BA03A5-3FD1-41B1-BD74-8B8C3CFE8427}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{36BA03A5-3FD1-41B1-BD74-8B8C3CFE8427}.Debug|anycpu.Build.0 = Debug|anycpu
+		{36BA03A5-3FD1-41B1-BD74-8B8C3CFE8427}.Release|anycpu.ActiveCfg = Release|anycpu
+		{36BA03A5-3FD1-41B1-BD74-8B8C3CFE8427}.Release|anycpu.Build.0 = Release|anycpu
+		{72A4A8B4-F42B-4EDA-9F91-57EA860BCE89}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{72A4A8B4-F42B-4EDA-9F91-57EA860BCE89}.Debug|anycpu.Build.0 = Debug|anycpu
+		{72A4A8B4-F42B-4EDA-9F91-57EA860BCE89}.Release|anycpu.ActiveCfg = Release|anycpu
+		{72A4A8B4-F42B-4EDA-9F91-57EA860BCE89}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {479C50CB-C0AE-47D4-9864-711272D89E8C}
+	EndGlobalSection
+EndGlobal

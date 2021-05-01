@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/bin/Debug/netcoreapp3.1/2.MatchPhoneNumber.deps.json
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/bin/Debug/netcoreapp3.1/2.MatchPhoneNumber.runtimeconfig.json
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/bin/Debug/netcoreapp3.1/2.MatchPhoneNumber.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/bin/Debug/netcoreapp3.1/2.MatchPhoneNumber.dll
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/bin/Debug/netcoreapp3.1/2.MatchPhoneNumber.pdb
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/obj/Debug/netcoreapp3.1/2.MatchPhoneNumber.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/obj/Debug/netcoreapp3.1/2.MatchPhoneNumber.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/obj/Debug/netcoreapp3.1/2.MatchPhoneNumber.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/obj/Debug/netcoreapp3.1/2.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/obj/Debug/netcoreapp3.1/2.MatchPhoneNumber.dll
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/obj/Debug/netcoreapp3.1/2.MatchPhoneNumber.pdb
+/Users/user/Desktop/Softuni/Fundamentals/RegexExercise/2.MatchPhoneNumber/obj/Debug/netcoreapp3.1/2.MatchPhoneNumber.genruntimeconfig.cache

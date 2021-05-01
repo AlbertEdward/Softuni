@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/bin/Debug/netcoreapp3.1/02.Problem.deps.json
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/bin/Debug/netcoreapp3.1/02.Problem.runtimeconfig.json
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/bin/Debug/netcoreapp3.1/02.Problem.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/bin/Debug/netcoreapp3.1/02.Problem.dll
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/bin/Debug/netcoreapp3.1/02.Problem.pdb
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/obj/Debug/netcoreapp3.1/02.Problem.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/obj/Debug/netcoreapp3.1/02.Problem.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/obj/Debug/netcoreapp3.1/02.Problem.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/obj/Debug/netcoreapp3.1/02.Problem.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/obj/Debug/netcoreapp3.1/02.Problem.dll
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/obj/Debug/netcoreapp3.1/02.Problem.pdb
+/Users/user/Desktop/Softuni/Fundamentals/FundMidExam/02.Problem/obj/Debug/netcoreapp3.1/02.Problem.genruntimeconfig.cache

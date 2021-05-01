@@ -1,0 +1,5 @@
+/Users/user/Desktop/Softuni/Fundamentals/FinalFundExam/02.AdAstra/bin/Debug/02.AdAstra.exe
+/Users/user/Desktop/Softuni/Fundamentals/FinalFundExam/02.AdAstra/bin/Debug/02.AdAstra.pdb
+/Users/user/Desktop/Softuni/Fundamentals/FinalFundExam/02.AdAstra/obj/Debug/02.AdAstra.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/FinalFundExam/02.AdAstra/obj/Debug/02.AdAstra.exe
+/Users/user/Desktop/Softuni/Fundamentals/FinalFundExam/02.AdAstra/obj/Debug/02.AdAstra.pdb

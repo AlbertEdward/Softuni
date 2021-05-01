@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/07.ListManipulationAdvanced.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softuni/Fundamentals/Lists/07.ListManipulationAdvanced/07.ListManipulationAdvanced.csproj",
       "projectName": "07.ListManipulationAdvanced",
-      "projectPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/07.ListManipulationAdvanced.csproj",
+      "projectPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/07.ListManipulationAdvanced/07.ListManipulationAdvanced.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Softunii/Fundamentals/Lists/07.ListManipulationAdvanced/obj/",
+      "outputPath": "/Users/user/Desktop/Softuni/Fundamentals/Lists/07.ListManipulationAdvanced/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"

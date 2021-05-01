@@ -1,0 +1,12 @@
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/bin/Debug/netcoreapp3.1/01.CoutSameValuesInArray.deps.json
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/bin/Debug/netcoreapp3.1/01.CoutSameValuesInArray.runtimeconfig.json
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/bin/Debug/netcoreapp3.1/01.CoutSameValuesInArray.runtimeconfig.dev.json
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/bin/Debug/netcoreapp3.1/01.CoutSameValuesInArray.dll
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/bin/Debug/netcoreapp3.1/01.CoutSameValuesInArray.pdb
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/obj/Debug/netcoreapp3.1/01.CoutSameValuesInArray.csprojAssemblyReference.cache
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/obj/Debug/netcoreapp3.1/01.CoutSameValuesInArray.AssemblyInfoInputs.cache
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/obj/Debug/netcoreapp3.1/01.CoutSameValuesInArray.AssemblyInfo.cs
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/obj/Debug/netcoreapp3.1/01.CoutSameValuesInArray.csproj.CoreCompileInputs.cache
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/obj/Debug/netcoreapp3.1/01.CoutSameValuesInArray.dll
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/obj/Debug/netcoreapp3.1/01.CoutSameValuesInArray.pdb
+/Users/user/Projects/SetsAndDIctionaries/01.CoutSameValuesInArray/obj/Debug/netcoreapp3.1/01.CoutSameValuesInArray.genruntimeconfig.cache

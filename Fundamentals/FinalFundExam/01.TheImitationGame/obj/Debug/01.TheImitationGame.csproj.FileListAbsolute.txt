@@ -1,0 +1,2 @@
+/Users/user/Desktop/Softuni/Fundamentals/FinalFundExam/01.TheImitationGame/obj/Debug/01.TheImitationGame.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/FinalFundExam/01.TheImitationGame/obj/Debug/01.TheImitationGame.csproj.CoreCompileInputs.cache

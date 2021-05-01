@@ -1,12 +1,18 @@
 ﻿using System;
+using System.Text;
 
-namespace _01._01.Car
+namespace CarManufacturer
 {
-    class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Car car = new Car();
+            {
+                
+            };
+
+            Console.WriteLine(car.WhoAmI());
         }
     }
 }

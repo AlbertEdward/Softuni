@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/bin/Debug/netcoreapp3.1/02.ArrayModifier.deps.json
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/bin/Debug/netcoreapp3.1/02.ArrayModifier.runtimeconfig.json
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/bin/Debug/netcoreapp3.1/02.ArrayModifier.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/bin/Debug/netcoreapp3.1/02.ArrayModifier.dll
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/bin/Debug/netcoreapp3.1/02.ArrayModifier.pdb
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/obj/Debug/netcoreapp3.1/02.ArrayModifier.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/obj/Debug/netcoreapp3.1/02.ArrayModifier.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/obj/Debug/netcoreapp3.1/02.ArrayModifier.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/obj/Debug/netcoreapp3.1/02.ArrayModifier.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/obj/Debug/netcoreapp3.1/02.ArrayModifier.dll
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/obj/Debug/netcoreapp3.1/02.ArrayModifier.pdb
+/Users/user/Desktop/Softuni/Fundamentals/FundExamPreparation/02.ArrayModifier/obj/Debug/netcoreapp3.1/02.ArrayModifier.genruntimeconfig.cache

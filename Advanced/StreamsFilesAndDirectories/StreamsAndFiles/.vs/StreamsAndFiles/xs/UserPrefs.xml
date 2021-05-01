@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{21B4AF8A-9D1A-4C0D-AF79-C14E2C408544}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.Problem FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.Problem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StreamsAndFiles" expanded="True">
+            <Node name="01.Problem" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="02.Problem" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B5B0584A-0CF5-4E41-B09C-8477D6E28830}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="10/10.ArrayManupulator.cs">
+    <Files>
+      <File FileName="10/10.ArrayManupulator.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lists" expanded="True">
+            <Node name="10.ArrayManupulator" expanded="True">
+              <Node name="10.ArrayManupulator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.10.ArrayManupulator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

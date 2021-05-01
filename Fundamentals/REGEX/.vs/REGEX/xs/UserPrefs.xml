@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{36BA03A5-3FD1-41B1-BD74-8B8C3CFE8427}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.Race/Program.cs">
+    <Files>
+      <File FileName="02.Race/Program.cs" Line="14" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="REGEX" expanded="True" selected="True">
+            <Node name="01.Furniture" expanded="True" />
+            <Node name="02.Race" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.Furniture PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02.Race FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

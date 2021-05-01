@@ -1,0 +1,5 @@
+/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/123/bin/Debug/123.exe
+/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/123/bin/Debug/123.pdb
+/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/123/obj/anycpu/Debug/123.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/123/obj/anycpu/Debug/123.exe
+/Users/user/Desktop/Softuni/Fundamentals/FINALEXAM/123/obj/anycpu/Debug/123.pdb

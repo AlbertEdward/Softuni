@@ -1,0 +1,6 @@
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/05.DigitsLettersAndOther/bin/Debug/05.DigitsLettersAndOther.exe
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/05.DigitsLettersAndOther/bin/Debug/05.DigitsLettersAndOther.pdb
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/05.DigitsLettersAndOther/obj/anycpu/Debug/05.DigitsLettersAndOther.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/05.DigitsLettersAndOther/obj/anycpu/Debug/05.DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/05.DigitsLettersAndOther/obj/anycpu/Debug/05.DigitsLettersAndOther.exe
+/Users/user/Desktop/Softuni/Fundamentals/TextProcessing/05.DigitsLettersAndOther/obj/anycpu/Debug/05.DigitsLettersAndOther.pdb
