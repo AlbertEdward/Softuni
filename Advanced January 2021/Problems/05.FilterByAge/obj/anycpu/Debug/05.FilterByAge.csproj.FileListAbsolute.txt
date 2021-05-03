@@ -1,0 +1,6 @@
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/05.FilterByAge/bin/Debug/05.FilterByAge.exe
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/05.FilterByAge/bin/Debug/05.FilterByAge.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/05.FilterByAge/obj/anycpu/Debug/05.FilterByAge.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/05.FilterByAge/obj/anycpu/Debug/05.FilterByAge.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/05.FilterByAge/obj/anycpu/Debug/05.FilterByAge.exe
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/05.FilterByAge/obj/anycpu/Debug/05.FilterByAge.pdb

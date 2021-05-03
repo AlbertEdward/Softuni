@@ -1,20 +1,18 @@
-﻿<Properties StartupConfiguration="{0DD963A3-7B17-4C7E-A25E-D0D9859E571B}|Default">
+﻿<Properties StartupConfiguration="{3145DEC9-4D8F-4859-A39E-676B9686BD7B}|Default">
   <MonoDevelop.Ide.ItemProperties.01.SortEvenNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.05.FilterByAge FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.02.SumNumbers FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="05.FilterByAge/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.05.FilterByAge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.SumNumbers/02.SumNumbers.cs">
     <Files>
-      <File FileName="01./01.SortEvenNumbers.cs" Line="20" Column="2" />
-      <File FileName="05.FilterByAge/Program.cs" Line="9" Column="13" />
+      <File FileName="02.SumNumbers/02.SumNumbers.cs" Line="13" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Functional Programming" expanded="True">
-            <Node name="02.SumNumbers" expanded="True" />
-            <Node name="05.FilterByAge" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="02.SumNumbers" expanded="True">
+              <Node name="02.SumNumbers.cs" selected="True" />
             </Node>
+            <Node name="05.FilterByAge" expanded="True" />
           </Node>
         </State>
       </Pad>

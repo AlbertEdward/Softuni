@@ -1,0 +1,2 @@
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/02.SumNumbers/obj/anycpu/Debug/02.SumNumbers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/02.SumNumbers/obj/anycpu/Debug/02.SumNumbers.csproj.CoreCompileInputs.cache

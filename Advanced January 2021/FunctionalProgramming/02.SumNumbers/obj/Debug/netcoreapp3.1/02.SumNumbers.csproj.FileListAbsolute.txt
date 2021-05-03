@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/bin/Debug/netcoreapp3.1/02.SumNumbers.deps.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/bin/Debug/netcoreapp3.1/02.SumNumbers.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/bin/Debug/netcoreapp3.1/02.SumNumbers.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/bin/Debug/netcoreapp3.1/02.SumNumbers.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/bin/Debug/netcoreapp3.1/02.SumNumbers.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/obj/Debug/netcoreapp3.1/02.SumNumbers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/obj/Debug/netcoreapp3.1/02.SumNumbers.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/obj/Debug/netcoreapp3.1/02.SumNumbers.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/obj/Debug/netcoreapp3.1/02.SumNumbers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/obj/Debug/netcoreapp3.1/02.SumNumbers.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/obj/Debug/netcoreapp3.1/02.SumNumbers.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/02.SumNumbers/obj/Debug/netcoreapp3.1/02.SumNumbers.genruntimeconfig.cache

@@ -4,39 +4,41 @@ using System.Linq;
 
 namespace FilterByAge
 {
+    class Person
+    {
+        public object Name { get; set; }
+        public object Age { get; set; }
+    }
     class MainClass
     {
         public static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            Dictionary<string, int> dict = new Dictionary<string, int>();
+
+            Person[] people = new Person[n];
+
             for (int i = 0; i < n; i++)
             {
-                string[] nameAge = Console.ReadLine().Split(',',' ').ToArray();
-
-                string name = nameAge[0];
-                int ages = int.Parse(nameAge[1]);
-
-                dict.Add(name, ages);
+                var input = Console.ReadLine().Split(", ");
+                people[i] = new Person();
+                people[i].Name = input[0];
+                people[i].Age = int.Parse(input[1]);
             }
-            string condition = Console.ReadLine();
+
+            string filter = Console.ReadLine();
             int age = int.Parse(Console.ReadLine());
             string format = Console.ReadLine();
-
-            if (condition == "younger")
+            
+            if (filter == "older")
             {
-                if (format == "name")
+                for (int j = 0; j < n; j++)
                 {
-                    for (int j = 0; j < age; j++)
-                    {
-                        if (dict.ContainsValue(age - j))
-                        {
-                            Console.WriteLine();
-                        }
-                    }
+                    
+
                 }
-                
+
             }
+
         }
     }
 }
