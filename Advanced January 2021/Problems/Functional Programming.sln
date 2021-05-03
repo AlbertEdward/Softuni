@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.810.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortEvenNumbers", "01.\01.SortEvenNumbers.csproj", "{0DD963A3-7B17-4C7E-A25E-D0D9859E571B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumNumbers", "02.SumNumbers\02.SumNumbers.csproj", "{2F402D3C-A4DA-471C-9759-79B44063781E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FilterByAge", "05.FilterByAge\05.FilterByAge.csproj", "{3145DEC9-4D8F-4859-A39E-676B9686BD7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -15,6 +19,14 @@ Global
 		{0DD963A3-7B17-4C7E-A25E-D0D9859E571B}.Debug|anycpu.Build.0 = Debug|anycpu
 		{0DD963A3-7B17-4C7E-A25E-D0D9859E571B}.Release|anycpu.ActiveCfg = Release|anycpu
 		{0DD963A3-7B17-4C7E-A25E-D0D9859E571B}.Release|anycpu.Build.0 = Release|anycpu
+		{2F402D3C-A4DA-471C-9759-79B44063781E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2F402D3C-A4DA-471C-9759-79B44063781E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2F402D3C-A4DA-471C-9759-79B44063781E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2F402D3C-A4DA-471C-9759-79B44063781E}.Release|anycpu.Build.0 = Release|anycpu
+		{3145DEC9-4D8F-4859-A39E-676B9686BD7B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3145DEC9-4D8F-4859-A39E-676B9686BD7B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3145DEC9-4D8F-4859-A39E-676B9686BD7B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3145DEC9-4D8F-4859-A39E-676B9686BD7B}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/01./obj/Debug/01.SortEvenNumbers.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/01./obj/Debug/01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/01./bin/Debug/01..exe
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/01./bin/Debug/01..pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/01./obj/Debug/01..exe
+/Users/user/Desktop/Softuni/Advanced January 2021/Problems/01./obj/Debug/01..pdb
