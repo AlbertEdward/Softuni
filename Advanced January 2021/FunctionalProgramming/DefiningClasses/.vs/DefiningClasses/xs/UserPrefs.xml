@@ -1,12 +1,16 @@
-﻿<Properties StartupConfiguration="{F4D88A47-7972-4F53-84F7-0B7FAE993A29}|Default">
-  <MonoDevelop.Ide.ItemProperties.01.Car FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{ABF4EA1E-3DC3-4AD2-880B-4AB561AB2CD1}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.Car PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.CarConstructor/Car.cs">
+    <Files>
+      <File FileName="03.CarConstructor/StartUp.cs" Line="1" Column="1" />
+      <File FileName="03.CarConstructor/Car.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DefiningClasses" expanded="True">
-            <Node name="01.Car" expanded="True">
-              <Node name="StartUp.cs" selected="True" />
+            <Node name="03.CarConstructor" expanded="True">
+              <Node name="Car.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -19,4 +23,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.02.CarExtension PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/bin/Debug/netcoreapp3.1/01.Car.deps.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/bin/Debug/netcoreapp3.1/01.Car.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/bin/Debug/netcoreapp3.1/01.Car.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/bin/Debug/netcoreapp3.1/01.Car.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/bin/Debug/netcoreapp3.1/01.Car.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/obj/Debug/netcoreapp3.1/01.Car.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/obj/Debug/netcoreapp3.1/01.Car.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/obj/Debug/netcoreapp3.1/01.Car.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/obj/Debug/netcoreapp3.1/01.Car.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/obj/Debug/netcoreapp3.1/01.Car.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/obj/Debug/netcoreapp3.1/01.Car.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/01.Car/obj/Debug/netcoreapp3.1/01.Car.genruntimeconfig.cache
