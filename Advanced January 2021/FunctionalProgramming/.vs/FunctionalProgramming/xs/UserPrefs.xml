@@ -1,12 +1,25 @@
-﻿<Properties StartupConfiguration="{D9EFD8A0-AA56-410F-BC52-522F1B446F3B}|Default">
+﻿<Properties StartupConfiguration="{F4CDBCBD-EC15-4745-A72C-91FEB84144AC}|Default">
   <MonoDevelop.Ide.ItemProperties.01.SortEvenNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.ActionPoint FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.02.SumNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="03.CountUppercaseWords/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1/1.ActionPoint.cs">
     <Files>
-      <File FileName="03.CountUppercaseWords/Program.cs" Line="9" Column="46" />
+      <File FileName="1/Program.cs" Line="9" Column="13" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunctionalProgramming" expanded="True">
+            <Node name="01.SortEvenNumbers" expanded="True" />
+            <Node name="02.SumNumbers" expanded="True" />
+            <Node name="03.CountUppercaseWords" expanded="True" />
+            <Node name="1.ActionPoint" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.03.CountUppercaseWords FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.CountUppercaseWords PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

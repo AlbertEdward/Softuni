@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/bin/Debug/netcoreapp3.1/03.CountUppercaseWords.deps.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/bin/Debug/netcoreapp3.1/03.CountUppercaseWords.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/bin/Debug/netcoreapp3.1/03.CountUppercaseWords.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/bin/Debug/netcoreapp3.1/03.CountUppercaseWords.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/bin/Debug/netcoreapp3.1/03.CountUppercaseWords.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/obj/Debug/netcoreapp3.1/03.CountUppercaseWords.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/obj/Debug/netcoreapp3.1/03.CountUppercaseWords.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/obj/Debug/netcoreapp3.1/03.CountUppercaseWords.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/obj/Debug/netcoreapp3.1/03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/obj/Debug/netcoreapp3.1/03.CountUppercaseWords.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/obj/Debug/netcoreapp3.1/03.CountUppercaseWords.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/03.CountUppercaseWords/obj/Debug/netcoreapp3.1/03.CountUppercaseWords.genruntimeconfig.cache
