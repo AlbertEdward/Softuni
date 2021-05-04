@@ -2,10 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.01.SortEvenNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.1.ActionPoint FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.02.SumNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="1/1.ActionPoint.cs">
-    <Files>
-      <File FileName="1/Program.cs" Line="9" Column="13" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
