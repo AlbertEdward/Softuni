@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/bin/Debug/netcoreapp3.1/04.CarEngineAndTires.deps.json
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/bin/Debug/netcoreapp3.1/04.CarEngineAndTires.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/bin/Debug/netcoreapp3.1/04.CarEngineAndTires.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/bin/Debug/netcoreapp3.1/04.CarEngineAndTires.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/bin/Debug/netcoreapp3.1/04.CarEngineAndTires.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/obj/Debug/netcoreapp3.1/04.CarEngineAndTires.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/obj/Debug/netcoreapp3.1/04.CarEngineAndTires.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/obj/Debug/netcoreapp3.1/04.CarEngineAndTires.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/obj/Debug/netcoreapp3.1/04.CarEngineAndTires.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/obj/Debug/netcoreapp3.1/04.CarEngineAndTires.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/obj/Debug/netcoreapp3.1/04.CarEngineAndTires.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/obj/Debug/netcoreapp3.1/04.CarEngineAndTires.genruntimeconfig.cache

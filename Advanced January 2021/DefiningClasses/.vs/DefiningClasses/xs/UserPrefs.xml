@@ -1,15 +1,30 @@
-﻿<Properties StartupConfiguration="{ABF4EA1E-3DC3-4AD2-880B-4AB561AB2CD1}|Default">
+﻿<Properties StartupConfiguration="{CB338FE0-082F-4A26-AFA4-8FA66FEBFD05}|Default">
   <MonoDevelop.Ide.ItemProperties.01.Car PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="03.CarConstructor/Car.cs">
+  <MonoDevelop.Ide.ItemProperties.03.CarConstructor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.SpecialCars FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.SpecialCars/StartUp.cs">
     <Files>
-      <File FileName="03.CarConstructor/StartUp.cs" Line="1" Column="1" />
-      <File FileName="03.CarConstructor/Car.cs" Line="1" Column="1" />
+      <File FileName="05.SpecialCars/StartUp.cs" Line="37" Column="46" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DefiningClasses" expanded="True">
+            <Node name="05.SpecialCars" expanded="True">
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.04.CarEngineAndTires PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/04.CarEngineAndTires/StartUp.cs" relfile="04.CarEngineAndTires/StartUp.cs" line="10" column="13" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.02.CarExtension PreferredExecutionTarget="MonoDevelop.Default" />
