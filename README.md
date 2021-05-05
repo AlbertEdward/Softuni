@@ -1,4 +1,4 @@
-# Softunii
+# Softuni
 
 commit
 commit 2
