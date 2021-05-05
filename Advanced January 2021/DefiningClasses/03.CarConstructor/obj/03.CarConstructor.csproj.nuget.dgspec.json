@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/03.CarConstructor/03.CarConstructor.csproj": {}
+    "/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/03.CarConstructor/03.CarConstructor.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/03.CarConstructor/03.CarConstructor.csproj": {
+    "/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/03.CarConstructor/03.CarConstructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/03.CarConstructor/03.CarConstructor.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/03.CarConstructor/03.CarConstructor.csproj",
         "projectName": "03.CarConstructor",
-        "projectPath": "/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/03.CarConstructor/03.CarConstructor.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/03.CarConstructor/03.CarConstructor.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/03.CarConstructor/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/03.CarConstructor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

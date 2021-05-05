@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/02.CarExtension/02.CarExtension.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/02.CarExtension/02.CarExtension.csproj",
       "projectName": "02.CarExtension",
-      "projectPath": "/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/02.CarExtension/02.CarExtension.csproj",
+      "projectPath": "/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/02.CarExtension/02.CarExtension.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Softuni/Advanced January 2021/FunctionalProgramming/DefiningClasses/02.CarExtension/obj/",
+      "outputPath": "/Users/user/Desktop/Softuni/Advanced January 2021/DefiningClasses/02.CarExtension/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"
