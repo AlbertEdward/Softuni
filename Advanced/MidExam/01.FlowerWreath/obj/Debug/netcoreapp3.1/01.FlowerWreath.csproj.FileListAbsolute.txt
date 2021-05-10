@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/bin/Debug/netcoreapp3.1/01.FlowerWreath.deps.json
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/bin/Debug/netcoreapp3.1/01.FlowerWreath.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/bin/Debug/netcoreapp3.1/01.FlowerWreath.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/bin/Debug/netcoreapp3.1/01.FlowerWreath.dll
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/bin/Debug/netcoreapp3.1/01.FlowerWreath.pdb
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/obj/Debug/netcoreapp3.1/01.FlowerWreath.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/obj/Debug/netcoreapp3.1/01.FlowerWreath.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/obj/Debug/netcoreapp3.1/01.FlowerWreath.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/obj/Debug/netcoreapp3.1/01.FlowerWreath.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/obj/Debug/netcoreapp3.1/01.FlowerWreath.dll
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/obj/Debug/netcoreapp3.1/01.FlowerWreath.pdb
+/Users/user/Desktop/Softuni/Advanced/MidExam/01.FlowerWreath/obj/Debug/netcoreapp3.1/01.FlowerWreath.genruntimeconfig.cache
