@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/bin/Debug/netcoreapp3.1/02.Bee.deps.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/bin/Debug/netcoreapp3.1/02.Bee.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/bin/Debug/netcoreapp3.1/02.Bee.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/bin/Debug/netcoreapp3.1/02.Bee.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/bin/Debug/netcoreapp3.1/02.Bee.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/obj/Debug/netcoreapp3.1/02.Bee.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/obj/Debug/netcoreapp3.1/02.Bee.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/obj/Debug/netcoreapp3.1/02.Bee.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/obj/Debug/netcoreapp3.1/02.Bee.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/obj/Debug/netcoreapp3.1/02.Bee.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/obj/Debug/netcoreapp3.1/02.Bee.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/obj/Debug/netcoreapp3.1/02.Bee.genruntimeconfig.cache
