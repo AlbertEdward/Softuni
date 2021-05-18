@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/bin/Debug/netcoreapp3.1/01.IvansBABY.deps.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/bin/Debug/netcoreapp3.1/01.IvansBABY.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/bin/Debug/netcoreapp3.1/01.IvansBABY.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/bin/Debug/netcoreapp3.1/01.IvansBABY.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/bin/Debug/netcoreapp3.1/01.IvansBABY.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/obj/Debug/netcoreapp3.1/01.IvansBABY.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/obj/Debug/netcoreapp3.1/01.IvansBABY.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/obj/Debug/netcoreapp3.1/01.IvansBABY.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/obj/Debug/netcoreapp3.1/01.IvansBABY.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/obj/Debug/netcoreapp3.1/01.IvansBABY.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/obj/Debug/netcoreapp3.1/01.IvansBABY.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/01.IvansBABY/obj/Debug/netcoreapp3.1/01.IvansBABY.genruntimeconfig.cache

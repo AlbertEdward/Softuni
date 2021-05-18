@@ -1,12 +1,14 @@
-﻿<Properties StartupConfiguration="{28A16D9E-866C-4E98-82A0-A7E5D9E7DA85}|Default">
+﻿<Properties StartupConfiguration="{A4228D74-9029-444D-9AAB-C80B04871C69}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.IvansBABY PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="02.Bee/Program.cs">
     <Files>
-      <File FileName="02.Bee/Program.cs" Line="1" Column="1" />
+      <File FileName="02.Bee/Program.cs" Line="22" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FinalExam" expanded="True">
+            <Node name="01.IvansBABY" expanded="True" />
             <Node name="02.Bee" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
@@ -18,8 +20,10 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Desktop/Softuni/Advanced January 2021/FinalExam/02.Bee/Program.cs" relfile="02.Bee/Program.cs" line="21" column="21" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.02.Bee FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Bee PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
