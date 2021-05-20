@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2B3A0D1F-9487-4DC9-8F10-278BEB6641E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="08.TrafficJam/Program.cs">
+    <Files>
+      <File FileName="08.TrafficJam/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.08.TrafficJam FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/bin/Debug/netcoreapp3.1/08.TrafficJam.deps.json
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/bin/Debug/netcoreapp3.1/08.TrafficJam.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/bin/Debug/netcoreapp3.1/08.TrafficJam.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/bin/Debug/netcoreapp3.1/08.TrafficJam.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/bin/Debug/netcoreapp3.1/08.TrafficJam.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/obj/Debug/netcoreapp3.1/08.TrafficJam.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/obj/Debug/netcoreapp3.1/08.TrafficJam.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/obj/Debug/netcoreapp3.1/08.TrafficJam.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/obj/Debug/netcoreapp3.1/08.TrafficJam.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/obj/Debug/netcoreapp3.1/08.TrafficJam.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/obj/Debug/netcoreapp3.1/08.TrafficJam.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/obj/Debug/netcoreapp3.1/08.TrafficJam.genruntimeconfig.cache
