@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/bin/Debug/netcoreapp3.1/07.PascalTriangle.deps.json
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/bin/Debug/netcoreapp3.1/07.PascalTriangle.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/bin/Debug/netcoreapp3.1/07.PascalTriangle.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/bin/Debug/netcoreapp3.1/07.PascalTriangle.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/bin/Debug/netcoreapp3.1/07.PascalTriangle.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/obj/Debug/netcoreapp3.1/07.PascalTriangle.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/obj/Debug/netcoreapp3.1/07.PascalTriangle.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/obj/Debug/netcoreapp3.1/07.PascalTriangle.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/obj/Debug/netcoreapp3.1/07.PascalTriangle.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/obj/Debug/netcoreapp3.1/07.PascalTriangle.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/obj/Debug/netcoreapp3.1/07.PascalTriangle.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/07.PascalTriangle/obj/Debug/netcoreapp3.1/07.PascalTriangle.genruntimeconfig.cache
