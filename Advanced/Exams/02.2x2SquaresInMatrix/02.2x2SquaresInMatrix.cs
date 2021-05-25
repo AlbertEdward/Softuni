@@ -12,10 +12,12 @@ namespace _02._2x2SquaresInMatrix
                 .Select(int.Parse)
                 .ToArray();
 
-            string[,] matrix = new string[n[0], n[1]];
-            int count = 0;
             int rows = n[0];
             int cols = n[1];
+
+            string[,] matrix = new string[rows, cols];
+
+            int count = 0;
 
             for (int row = 0; row < rows; row++)
             {
