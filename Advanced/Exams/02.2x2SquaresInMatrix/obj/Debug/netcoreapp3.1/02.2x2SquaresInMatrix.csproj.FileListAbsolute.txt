@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/bin/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.deps.json
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/bin/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/bin/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/bin/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/bin/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/obj/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/obj/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/obj/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/obj/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/obj/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/obj/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/02.2x2SquaresInMatrix/obj/Debug/netcoreapp3.1/02.2x2SquaresInMatrix.genruntimeconfig.cache

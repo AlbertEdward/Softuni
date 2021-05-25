@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/bin/Debug/netcoreapp3.1/01.DiagonalDifference.deps.json
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/bin/Debug/netcoreapp3.1/01.DiagonalDifference.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/bin/Debug/netcoreapp3.1/01.DiagonalDifference.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/bin/Debug/netcoreapp3.1/01.DiagonalDifference.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/bin/Debug/netcoreapp3.1/01.DiagonalDifference.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/obj/Debug/netcoreapp3.1/01.DiagonalDifference.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/obj/Debug/netcoreapp3.1/01.DiagonalDifference.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/obj/Debug/netcoreapp3.1/01.DiagonalDifference.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/obj/Debug/netcoreapp3.1/01.DiagonalDifference.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/obj/Debug/netcoreapp3.1/01.DiagonalDifference.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/obj/Debug/netcoreapp3.1/01.DiagonalDifference.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/01.DiagonalDifference/obj/Debug/netcoreapp3.1/01.DiagonalDifference.genruntimeconfig.cache
