@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/bin/Debug/netcoreapp3.1/03.MaximalSum.deps.json
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/bin/Debug/netcoreapp3.1/03.MaximalSum.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/bin/Debug/netcoreapp3.1/03.MaximalSum.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/bin/Debug/netcoreapp3.1/03.MaximalSum.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/bin/Debug/netcoreapp3.1/03.MaximalSum.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/obj/Debug/netcoreapp3.1/03.MaximalSum.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/obj/Debug/netcoreapp3.1/03.MaximalSum.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/obj/Debug/netcoreapp3.1/03.MaximalSum.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/obj/Debug/netcoreapp3.1/03.MaximalSum.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/obj/Debug/netcoreapp3.1/03.MaximalSum.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/obj/Debug/netcoreapp3.1/03.MaximalSum.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/03.MaximalSum/obj/Debug/netcoreapp3.1/03.MaximalSum.genruntimeconfig.cache

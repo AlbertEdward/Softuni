@@ -1,8 +1,7 @@
-﻿<Properties StartupConfiguration="{1D48EDA0-ED32-48E3-A792-47E980A7E960}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="03.MaximalSum/Program.cs">
+﻿<Properties StartupConfiguration="{AE9A97B2-5593-4FAF-A668-1F8002D372EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.MaximalSum/03.MaximalSum.cs">
     <Files>
-      <File FileName="02.2x2SquaresInMatrix/02.2x2SquaresInMatrix.cs" Line="29" Column="18" />
-      <File FileName="03.MaximalSum/Program.cs" Line="1" Column="1" />
+      <File FileName="03.MaximalSum/03.MaximalSum.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +10,7 @@
             <Node name="01.DiagonalDifference" expanded="True" />
             <Node name="02.2x2SquaresInMatrix" expanded="True" />
             <Node name="03.MaximalSum" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="03.MaximalSum.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -22,7 +21,7 @@
   <MonoDevelop.Ide.ItemProperties.07.PascalTriangle PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.03.MaximalSum FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.MaximalSum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/Program.cs" relfile="08.TrafficJam/Program.cs" line="45" column="13" />
