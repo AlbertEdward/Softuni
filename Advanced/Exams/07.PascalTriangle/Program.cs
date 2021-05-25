@@ -6,25 +6,27 @@ namespace _07.PascalTriangle
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            int[][] triangle = new int[n][];
+            int height = int.Parse(Console.ReadLine());
+            long[][] triangle = new long[height][];
 
-            triangle[0][0] = 1;
-
-            for (int row = 0; row < n - 1; row++)
+            
+            for (int i = 0; i < height; i++)
             {
-                for (int col = 0; col <= row; col++)
+                long[] row = new long[i + 1];
+                row[0] = 1;
+                row[i] = 1;
+
+                for (int j = 1; j < i; j++)
                 {
-                    triangle[row + 1][col] += triangle[row][col];
-                    triangle[row + 1][col + 1] += triangle[row][col];
+                    row[j] = triangle[i - 1][j] + triangle[i-1][j-1];
                 }
+
+                triangle[i] = row;
             }
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < height; i++)
             {
-                Console.Write(triangle[i]);
-                Console.WriteLine();
-
+                Console.WriteLine(string.Join(" ", triangle[i]));
             }
         }
     }
