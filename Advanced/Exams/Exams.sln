@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.2x2SquaresInMatrix", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MaximalSum", "03.MaximalSum\03.MaximalSum.csproj", "{AE9A97B2-5593-4FAF-A668-1F8002D372EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniParty", "SoftUniParty\SoftUniParty.csproj", "{6DB52EFC-9E0B-4AD2-A1C2-4790DD5552A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AE9A97B2-5593-4FAF-A668-1F8002D372EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE9A97B2-5593-4FAF-A668-1F8002D372EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE9A97B2-5593-4FAF-A668-1F8002D372EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB52EFC-9E0B-4AD2-A1C2-4790DD5552A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB52EFC-9E0B-4AD2-A1C2-4790DD5552A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB52EFC-9E0B-4AD2-A1C2-4790DD5552A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB52EFC-9E0B-4AD2-A1C2-4790DD5552A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
