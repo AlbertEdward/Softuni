@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/bin/Debug/netcoreapp3.1/FlowerWreaths.deps.json
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/bin/Debug/netcoreapp3.1/FlowerWreaths.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/bin/Debug/netcoreapp3.1/FlowerWreaths.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/bin/Debug/netcoreapp3.1/FlowerWreaths.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/bin/Debug/netcoreapp3.1/FlowerWreaths.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.genruntimeconfig.cache
