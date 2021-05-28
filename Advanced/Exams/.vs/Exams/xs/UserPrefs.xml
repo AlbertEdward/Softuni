@@ -1,9 +1,25 @@
 ﻿<Properties StartupConfiguration="{11AB7685-3CFD-48F5-920B-B8DA3B78A90A}|Default">
   <MonoDevelop.Ide.ItemProperties.SoftUniParty PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FlowerWreaths/FlowerWreaths.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bee/Program.cs">
     <Files>
-      <File FileName="FlowerWreaths/FlowerWreaths.cs" Line="22" Column="40" />
+      <File FileName="Bee/Program.cs" Line="9" Column="47" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exams" expanded="True">
+            <Node name="01.DiagonalDifference" expanded="True" />
+            <Node name="02.2x2SquaresInMatrix" expanded="True" />
+            <Node name="03.MaximalSum" expanded="True" />
+            <Node name="Bee" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="FlowerWreaths" expanded="True" />
+            <Node name="SoftUniParty" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.02.2x2SquaresInMatrix PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.07.PascalTriangle PreferredExecutionTarget="MonoDevelop.Default" />
@@ -14,10 +30,11 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/user/Desktop/Softuni/Advanced/Exams/08.TrafficJam/Program.cs" relfile="08.TrafficJam/Program.cs" line="45" column="13" />
-      <Breakpoint file="/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/FlowerWreaths.cs" relfile="FlowerWreaths/FlowerWreaths.cs" line="41" column="13" />
+      <Breakpoint file="/Users/user/Desktop/Softuni/Advanced/Exams/FlowerWreaths/FlowerWreaths.cs" relfile="FlowerWreaths/FlowerWreaths.cs" line="30" column="21" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Bee FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.08.TrafficJam PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.DiagonalDifference PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

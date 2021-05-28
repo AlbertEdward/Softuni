@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/obj/Debug/netcoreapp3.1/Bee.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/obj/Debug/netcoreapp3.1/Bee.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/obj/Debug/netcoreapp3.1/Bee.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/obj/Debug/netcoreapp3.1/Bee.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/bin/Debug/netcoreapp3.1/Bee.deps.json
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/bin/Debug/netcoreapp3.1/Bee.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/bin/Debug/netcoreapp3.1/Bee.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/bin/Debug/netcoreapp3.1/Bee.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/bin/Debug/netcoreapp3.1/Bee.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/obj/Debug/netcoreapp3.1/Bee.dll
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/obj/Debug/netcoreapp3.1/Bee.pdb
+/Users/user/Desktop/Softuni/Advanced/Exams/Bee/obj/Debug/netcoreapp3.1/Bee.genruntimeconfig.cache
