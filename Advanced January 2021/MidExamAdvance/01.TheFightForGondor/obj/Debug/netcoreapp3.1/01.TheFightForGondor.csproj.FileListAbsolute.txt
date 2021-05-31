@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/bin/Debug/netcoreapp3.1/01.TheFightForGondor.deps.json
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/bin/Debug/netcoreapp3.1/01.TheFightForGondor.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/bin/Debug/netcoreapp3.1/01.TheFightForGondor.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/bin/Debug/netcoreapp3.1/01.TheFightForGondor.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/bin/Debug/netcoreapp3.1/01.TheFightForGondor.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/obj/Debug/netcoreapp3.1/01.TheFightForGondor.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/obj/Debug/netcoreapp3.1/01.TheFightForGondor.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/obj/Debug/netcoreapp3.1/01.TheFightForGondor.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/obj/Debug/netcoreapp3.1/01.TheFightForGondor.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/obj/Debug/netcoreapp3.1/01.TheFightForGondor.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/obj/Debug/netcoreapp3.1/01.TheFightForGondor.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/01.TheFightForGondor/obj/Debug/netcoreapp3.1/01.TheFightForGondor.genruntimeconfig.cache
