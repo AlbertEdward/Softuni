@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/bin/Debug/netcoreapp3.1/02.WarShips.deps.json
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/bin/Debug/netcoreapp3.1/02.WarShips.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/bin/Debug/netcoreapp3.1/02.WarShips.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/bin/Debug/netcoreapp3.1/02.WarShips.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/bin/Debug/netcoreapp3.1/02.WarShips.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/obj/Debug/netcoreapp3.1/02.WarShips.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/obj/Debug/netcoreapp3.1/02.WarShips.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/obj/Debug/netcoreapp3.1/02.WarShips.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/obj/Debug/netcoreapp3.1/02.WarShips.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/obj/Debug/netcoreapp3.1/02.WarShips.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/obj/Debug/netcoreapp3.1/02.WarShips.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/obj/Debug/netcoreapp3.1/02.WarShips.genruntimeconfig.cache
