@@ -23,7 +23,7 @@ namespace _02.WarShips
             for (int row = 0; row < n; row++)
             {
                 string[] input = Console.ReadLine()
-                    .Split()
+                    .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                     .ToArray();
 
                 for (int col = 0; col < n; col++)
@@ -147,7 +147,7 @@ namespace _02.WarShips
                         SecondPlayerShips--;
                         matrix[row + 1, col - 1] = "X";
                     }
-                    else if (isPositive && matrix[row + 1, col + 1] == ">")
+                    if (isPositive && matrix[row + 1, col + 1] == ">")
                     {
                         destroyedShips++;
                         SecondPlayerShips--;
@@ -195,7 +195,6 @@ namespace _02.WarShips
         public static bool CheckNegative(int col, int row, int n)
         {
             return row - 1 >= 0 && col - 1 >= 0;
-                
         }
     }
 }
