@@ -11,10 +11,8 @@ namespace _02.WarShips
             int n = int.Parse(Console.ReadLine());
             string[,] matrix = new string[n,n];
 
-
             string attackInput = Console.ReadLine();
             string[] attack = attackInput.Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries);
-
 
             int FirstPlayerShips = 0;
             int SecondPlayerShips = 0;
@@ -184,12 +182,12 @@ namespace _02.WarShips
 
         private static bool CheckPostitive(int col, int row, int n)
         {
-            return row + 1 <= n && col + 1 <= n;
+            return row + 1 < n && col + 1 < n;
         }
 
         private static bool CheckValid(int col, int row, int n)
         {
-            return row >= 0 && row <= n && col >= 0 && col <= n;
+            return row >= 0 && row < n && col >= 0 && col < n;
         }
 
         public static bool CheckNegative(int col, int row, int n)
