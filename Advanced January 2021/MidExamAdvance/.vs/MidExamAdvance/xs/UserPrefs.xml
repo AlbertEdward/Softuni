@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{6D7FE0D0-C8BA-45B0-9EF8-14027B0565F7}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="02.WarShips/02.WarShips.cs">
     <Files>
-      <File FileName="02.WarShips/02.WarShips.cs" Line="55" Column="13" />
+      <File FileName="02.WarShips/02.WarShips.cs" Line="184" Column="45" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.02.WarShips PreferredExecutionTarget="MonoDevelop.Default" />
@@ -9,9 +9,7 @@
   <MonoDevelop.Ide.ItemProperties.01.TheFightForGondor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/02.WarShips/02.WarShips.cs" relfile="02.WarShips/02.WarShips.cs" line="55" column="17" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

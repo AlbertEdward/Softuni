@@ -46,7 +46,7 @@ namespace _02.WarShips
                 }
 
                 int row = int.Parse(attack[i]);
-                int col = int.Parse(attack[i + 1])
+                int col = int.Parse(attack[i + 1]);
                 bool isNeutral = CheckNegative(col, row, n);
                 bool isPositive = CheckPostitive(col, row, n);
                 bool isValidSize = CheckValid(col, row, n);
@@ -181,7 +181,7 @@ namespace _02.WarShips
 
         private static bool CheckPostitive(int col, int row, int n)
         {
-            return row + 1 < n && col + 1 < n;
+            return row + 1 < n && col + 1 <= n;
         }
 
         private static bool CheckValid(int col, int row, int n)
