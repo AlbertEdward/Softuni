@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DE5E64AA-0D58-429F-8E8D-A5CD95917CE8}|Default">
+  <MonoDevelop.Ide.ItemProperties.TheRace PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Race.cs">
+    <Files>
+      <File FileName="StartUp.cs" Line="1" Column="1" />
+      <File FileName="Car.cs" />
+      <File FileName="Racer.cs" />
+      <File FileName="Race.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheRace" expanded="True">
+            <Node name="TheRace" expanded="True">
+              <Node name="Race.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
