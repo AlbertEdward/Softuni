@@ -15,5 +15,10 @@ namespace TheRace
             Country = country;
             Car = car;
         }
+
+        public override string ToString()
+        {
+            return $"Racer: {Name}, {Age} ({Country})";
+        }
     }
 }

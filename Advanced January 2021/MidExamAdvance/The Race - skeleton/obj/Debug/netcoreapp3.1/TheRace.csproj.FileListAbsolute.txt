@@ -10,3 +10,15 @@
 /Users/user/Desktop/The Race - skeleton/obj/Debug/netcoreapp3.1/TheRace.dll
 /Users/user/Desktop/The Race - skeleton/obj/Debug/netcoreapp3.1/TheRace.pdb
 /Users/user/Desktop/The Race - skeleton/obj/Debug/netcoreapp3.1/TheRace.genruntimeconfig.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/bin/Debug/netcoreapp3.1/TheRace.deps.json
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/bin/Debug/netcoreapp3.1/TheRace.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/bin/Debug/netcoreapp3.1/TheRace.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/bin/Debug/netcoreapp3.1/TheRace.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/bin/Debug/netcoreapp3.1/TheRace.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/obj/Debug/netcoreapp3.1/TheRace.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/obj/Debug/netcoreapp3.1/TheRace.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/obj/Debug/netcoreapp3.1/TheRace.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/obj/Debug/netcoreapp3.1/TheRace.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/obj/Debug/netcoreapp3.1/TheRace.dll
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/obj/Debug/netcoreapp3.1/TheRace.pdb
+/Users/user/Desktop/Softuni/Advanced January 2021/MidExamAdvance/The Race - skeleton/obj/Debug/netcoreapp3.1/TheRace.genruntimeconfig.cache
