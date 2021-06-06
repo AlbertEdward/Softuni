@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/bin/Debug/netcoreapp3.1/01.Cars.deps.json
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/bin/Debug/netcoreapp3.1/01.Cars.runtimeconfig.json
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/bin/Debug/netcoreapp3.1/01.Cars.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/bin/Debug/netcoreapp3.1/01.Cars.dll
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/bin/Debug/netcoreapp3.1/01.Cars.pdb
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/obj/Debug/netcoreapp3.1/01.Cars.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/obj/Debug/netcoreapp3.1/01.Cars.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/obj/Debug/netcoreapp3.1/01.Cars.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/obj/Debug/netcoreapp3.1/01.Cars.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/obj/Debug/netcoreapp3.1/01.Cars.dll
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/obj/Debug/netcoreapp3.1/01.Cars.pdb
+/Users/user/Desktop/Softuni/Training/Car/01.Cars/obj/Debug/netcoreapp3.1/01.Cars.genruntimeconfig.cache

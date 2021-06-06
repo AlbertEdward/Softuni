@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D0123068-2707-4341-94A8-C61243FE7C1D}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.Cars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01.Cars/Tire.cs">
+    <Files>
+      <File FileName="01.Cars/Program.cs" Line="17" Column="86" />
+      <File FileName="01.Cars/Car.cs" Line="38" Column="23" />
+      <File FileName="01.Cars/Engine.cs" Line="16" Column="10" />
+      <File FileName="01.Cars/Tire.cs" Line="6" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Car" expanded="True">
+            <Node name="01.Cars" expanded="True">
+              <Node name="Tire.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

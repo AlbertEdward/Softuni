@@ -1,0 +1,15 @@
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/bin/Debug/net5.0/StartUp.deps.json
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/bin/Debug/net5.0/StartUp.runtimeconfig.json
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/bin/Debug/net5.0/StartUp.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/bin/Debug/net5.0/StartUp.dll
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/bin/Debug/net5.0/ref/StartUp.dll
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/bin/Debug/net5.0/StartUp.pdb
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/obj/Debug/net5.0/StartUp.csprojAssemblyReference.cache
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/obj/Debug/net5.0/StartUp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/obj/Debug/net5.0/StartUp.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/obj/Debug/net5.0/StartUp.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/obj/Debug/net5.0/StartUp.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/obj/Debug/net5.0/StartUp.dll
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/obj/Debug/net5.0/ref/StartUp.dll
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/obj/Debug/net5.0/StartUp.pdb
+/Users/user/Desktop/Softuni/Training/Classes/01.Car/obj/Debug/net5.0/StartUp.genruntimeconfig.cache
