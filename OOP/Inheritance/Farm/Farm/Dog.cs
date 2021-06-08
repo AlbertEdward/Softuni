@@ -1,11 +1,10 @@
 ﻿using System;
 namespace Farm
 {
-    public class Dog : Animal
+    public class Dog
     {
-        public void Bark()
+        public Dog()
         {
-            Console.WriteLine("barking...");
         }
     }
 }

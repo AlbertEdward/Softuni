@@ -3,9 +3,8 @@ namespace Farm
 {
     public class Animal
     {
-        public void Eat()
+        public Animal()
         {
-            Console.WriteLine("eating...");
         }
     }
 }

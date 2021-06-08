@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softuni/OOP/Farm/Farm/Farm.csproj": {}
+    "/Users/user/Desktop/Softuni/OOP/Inheritance/Farm/Farm/Farm.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softuni/OOP/Farm/Farm/Farm.csproj": {
+    "/Users/user/Desktop/Softuni/OOP/Inheritance/Farm/Farm/Farm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softuni/OOP/Farm/Farm/Farm.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/OOP/Inheritance/Farm/Farm/Farm.csproj",
         "projectName": "Farm",
-        "projectPath": "/Users/user/Desktop/Softuni/OOP/Farm/Farm/Farm.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/OOP/Inheritance/Farm/Farm/Farm.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softuni/OOP/Farm/Farm/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/OOP/Inheritance/Farm/Farm/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

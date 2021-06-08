@@ -1,17 +1,18 @@
-﻿<Properties StartupConfiguration="{C3A4B378-5347-4BB7-B5D6-EEBFBF14A356}|Default">
+﻿<Properties StartupConfiguration="{0CD66BE5-0AF3-446E-9DFF-BAE5F98A0BFD}|Default">
   <MonoDevelop.Ide.ItemProperties.Farm FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Farm/Dog.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Farm/Puppy.cs">
     <Files>
-      <File FileName="Farm/Program.cs" Line="5" Column="12" />
-      <File FileName="Farm/EmptyClass.cs" Line="8" Column="41" />
-      <File FileName="Farm/Dog.cs" Line="6" Column="21" />
+      <File FileName="Farm/Program.cs" Line="10" Column="10" />
+      <File FileName="Farm/Animal.cs" Line="12" Column="1" />
+      <File FileName="Farm/Dog.cs" Line="11" Column="2" />
+      <File FileName="Farm/Puppy.cs" Line="6" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Farm" expanded="True">
             <Node name="Farm" expanded="True">
-              <Node name="Dog.cs" selected="True" />
+              <Node name="Puppy.cs" selected="True" />
             </Node>
           </Node>
         </State>
