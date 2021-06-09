@@ -1,10 +1,18 @@
 ﻿using System;
-namespace RandomList
+using System.Linq;
+using System.Collections.Generic;
+
+namespace CustomRandomList
 {
-    public class RandomList
+    public class RandomList : List<string>
     {
-        public RandomList()
+        public object MyProperty { get; set; }
+
+
+        public string RandomString()
         {
+            return
+
         }
     }
 }
