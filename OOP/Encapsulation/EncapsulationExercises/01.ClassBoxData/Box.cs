@@ -10,14 +10,14 @@ namespace _01.ClassBoxData
 
         public Box(double lenght, double width, double height)
         {
-            this.lenght = lenght;
-            this.width = width;
-            this.height = height;
+            this.Lenght = lenght;
+            this.Width = width;
+            this.Height = height;
         }
 
         public double Lenght
         {
-            get => lenght;
+            get => this.lenght;
 
             private set
             {
@@ -26,7 +26,7 @@ namespace _01.ClassBoxData
                     throw new ArgumentException("Lenght cannot be zero or negative.");
                 }
 
-                lenght = value;
+                this.lenght = value;
             }
         }
 
