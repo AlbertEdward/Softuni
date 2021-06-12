@@ -32,7 +32,7 @@ namespace _01.ClassBoxData
 
         public double Width
         {
-            get => width;
+            get => this.width;
 
             private set
             {
@@ -41,13 +41,13 @@ namespace _01.ClassBoxData
                     throw new ArgumentException("Width cannot be zero or negative.");
                 }
 
-                width = value;
+                this.width = value;
             }
         }
 
         public double Height
         {
-            get => height;
+            get => this.height;
             private set
             {
                 if (value <= 0)
@@ -55,7 +55,7 @@ namespace _01.ClassBoxData
                     throw new ArgumentException("Heigth cannot be zero or negative.");
                 }
 
-                height = value;
+                this.height = value;
             }
         }
 
