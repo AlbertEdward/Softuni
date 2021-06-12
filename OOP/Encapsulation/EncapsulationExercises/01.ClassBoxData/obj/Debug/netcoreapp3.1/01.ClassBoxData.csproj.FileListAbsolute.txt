@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/bin/Debug/netcoreapp3.1/01.ClassBoxData.deps.json
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/bin/Debug/netcoreapp3.1/01.ClassBoxData.runtimeconfig.json
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/bin/Debug/netcoreapp3.1/01.ClassBoxData.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/bin/Debug/netcoreapp3.1/01.ClassBoxData.dll
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/bin/Debug/netcoreapp3.1/01.ClassBoxData.pdb
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.dll
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.pdb
+/Users/user/Desktop/Softuni/OOP/Encapsulation/EncapsulationExercises/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.genruntimeconfig.cache
