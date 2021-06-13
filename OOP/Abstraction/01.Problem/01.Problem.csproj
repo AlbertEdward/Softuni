@@ -6,4 +6,7 @@
     <RootNamespace>_01.Problem</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Inter\" />
+  </ItemGroup>
 </Project>
