@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Softuni/OOP/Abstraction/01.Problem/01.Shapes.csproj",
-      "projectName": "01.Shapes",
-      "projectPath": "/Users/user/Desktop/Softuni/OOP/Abstraction/01.Problem/01.Shapes.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/02.Cars.csproj",
+      "projectName": "02.Cars",
+      "projectPath": "/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/02.Cars.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Softuni/OOP/Abstraction/01.Problem/obj/",
+      "outputPath": "/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"
