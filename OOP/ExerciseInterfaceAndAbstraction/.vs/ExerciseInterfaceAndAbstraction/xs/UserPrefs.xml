@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E51A61CE-5042-42E5-9CB1-FD219E7BE8F9}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.Telephony FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.DefineAnInterfaceIPerson PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Telephony/StationaryPhone.cs">
+    <Files>
+      <File FileName="03.Telephony/Program.cs" Line="9" Column="13" />
+      <File FileName="03.Telephony/Smartphone.cs" Line="1" Column="1" />
+      <File FileName="03.Telephony/StationaryPhone.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExerciseInterfaceAndAbstraction" expanded="True">
+            <Node name="01.DefineAnInterfaceIPerson" expanded="True" />
+            <Node name="03.Telephony" expanded="True">
+              <Node name="StationaryPhone.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
