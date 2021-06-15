@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _03.Telephony
+namespace ManufacturingPhones
 {
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
