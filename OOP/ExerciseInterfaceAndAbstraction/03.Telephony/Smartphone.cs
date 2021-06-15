@@ -1,10 +1,11 @@
 ﻿using System;
-namespace _03.Telephony
+
+namespace ManufacturingPhones
 {
     public class Smartphone
     {
-        public Smartphone()
-        {
-        }
+        public string Calling { get; set; }
+        public string Browsing { get; set; }
+
     }
 }

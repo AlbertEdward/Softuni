@@ -1,10 +1,10 @@
 ﻿using System;
-namespace _03.Telephony
+
+namespace ManufacturingPhones
 {
     public class StationaryPhone
     {
-        public StationaryPhone()
-        {
-        }
+        public string Calling { get; set; }
+
     }
 }
