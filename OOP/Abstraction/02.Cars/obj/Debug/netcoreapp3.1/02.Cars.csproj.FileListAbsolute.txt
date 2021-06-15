@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/bin/Debug/netcoreapp3.1/02.Cars.deps.json
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/bin/Debug/netcoreapp3.1/02.Cars.runtimeconfig.json
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/bin/Debug/netcoreapp3.1/02.Cars.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/bin/Debug/netcoreapp3.1/02.Cars.dll
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/bin/Debug/netcoreapp3.1/02.Cars.pdb
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.dll
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.pdb
+/Users/user/Desktop/Softuni/OOP/Abstraction/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.genruntimeconfig.cache
