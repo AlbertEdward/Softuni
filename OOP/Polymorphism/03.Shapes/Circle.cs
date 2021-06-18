@@ -17,5 +17,9 @@ namespace Shapes
         {
             throw new NotImplementedException();
         }
+        public override string Draw()
+        {
+            return base.Draw();
+        }
     }
 }

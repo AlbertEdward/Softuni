@@ -10,12 +10,12 @@ namespace Shapes
 
         public override double CalculatePerimeter()
         {
-            throw new NotImplementedException();
+            return 0.00;
         }
 
         public override double CalculateArea()
         {
-            throw new NotImplementedException();
+            return 0.00;
         }
 
         public override string Draw()

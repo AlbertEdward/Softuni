@@ -13,8 +13,8 @@ namespace Shapes
             Widht = widht;
         }
 
-        public double Height { get; set; }
-        public double Widht { get; set; }
+        public double Height { get; private set; }
+        public double Widht { get; private set; }
 
         public abstract double CalculatePerimeter();
         public abstract double CalculateArea();

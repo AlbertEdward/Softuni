@@ -3,10 +3,10 @@
   <MonoDevelop.Ide.ItemProperties.01.MathOperations PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="03.Shapes/Circle.cs">
     <Files>
-      <File FileName="03.Shapes/Program.cs" Line="9" Column="1" />
-      <File FileName="03.Shapes/Shape.cs" Line="2" Column="1" />
-      <File FileName="03.Shapes/Rectangle.cs" Line="32" Column="10" />
-      <File FileName="03.Shapes/Circle.cs" Line="5" Column="25" />
+      <File FileName="03.Shapes/Program.cs" Line="9" Column="46" />
+      <File FileName="03.Shapes/Shape.cs" Line="28" Column="1" />
+      <File FileName="03.Shapes/Rectangle.cs" Line="5" Column="35" />
+      <File FileName="03.Shapes/Circle.cs" Line="5" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
