@@ -20,6 +20,10 @@ namespace ManufacturingPhones
 
 
                     }
+                    else
+                    {
+
+                    }
                 }
                 Console.WriteLine($"Dialing... {Number}");
             }

@@ -5,22 +5,10 @@
     <Files>
       <File FileName="03.Telephony/StartUp.cs" Line="8" Column="10" />
       <File FileName="03.Telephony/Smartphone.cs" Line="20" Column="1" />
-      <File FileName="03.Telephony/StationaryPhone.cs" Line="12" Column="2" />
-      <File FileName="03.Telephony/ICalling.cs" Line="10" Column="33" />
-      <File FileName="03.Telephony/IBrowsing.cs" Line="10" Column="17" />
+      <File FileName="03.Telephony/StationaryPhone.cs" />
+      <File FileName="03.Telephony/ICalling.cs" />
+      <File FileName="03.Telephony/IBrowsing.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ExerciseInterfaceAndAbstraction" expanded="True">
-            <Node name="01.DefineAnInterfaceIPerson" expanded="True" />
-            <Node name="03.Telephony" expanded="True">
-              <Node name="Smartphone.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
