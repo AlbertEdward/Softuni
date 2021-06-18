@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/obj/Debug/netcoreapp3.1/01.MathOperations.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/obj/Debug/netcoreapp3.1/01.MathOperations.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/obj/Debug/netcoreapp3.1/01.MathOperations.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/obj/Debug/netcoreapp3.1/01.MathOperations.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/bin/Debug/netcoreapp3.1/01.MathOperations.deps.json
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/bin/Debug/netcoreapp3.1/01.MathOperations.runtimeconfig.json
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/bin/Debug/netcoreapp3.1/01.MathOperations.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/bin/Debug/netcoreapp3.1/01.MathOperations.dll
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/bin/Debug/netcoreapp3.1/01.MathOperations.pdb
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/obj/Debug/netcoreapp3.1/01.MathOperations.dll
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/obj/Debug/netcoreapp3.1/01.MathOperations.pdb
+/Users/user/Desktop/Softuni/OOP/Polymorphism/01.MathOperations/obj/Debug/netcoreapp3.1/01.MathOperations.genruntimeconfig.cache

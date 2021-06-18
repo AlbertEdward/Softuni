@@ -12,19 +12,7 @@ namespace ManufacturingPhones
         public void Calling()
         {
             if (Number.Count == 7)
-            {
-                for (int i = 0; i < Number.Count; i++)
-                {
-                    if()
-                    {
-
-
-                    }
-                    else
-                    {
-
-                    }
-                }
+            { 
                 Console.WriteLine($"Dialing... {Number}");
             }
             else if (Number.Count == 10)

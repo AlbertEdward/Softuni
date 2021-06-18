@@ -4,7 +4,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="03.Telephony/Smartphone.cs">
     <Files>
       <File FileName="03.Telephony/StartUp.cs" Line="8" Column="10" />
-      <File FileName="03.Telephony/Smartphone.cs" Line="20" Column="1" />
+      <File FileName="03.Telephony/Smartphone.cs" Line="15" Column="15" />
       <File FileName="03.Telephony/StationaryPhone.cs" />
       <File FileName="03.Telephony/ICalling.cs" />
       <File FileName="03.Telephony/IBrowsing.cs" />
