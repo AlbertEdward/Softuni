@@ -4,22 +4,27 @@ namespace Shapes
 {
     public class Circle : Shape
     {
-        public Circle(double height, double widht) : base(height, widht)
+        public Circle(double radius)
         {
+            Radius = radius;
         }
 
+        public double Radius { get; private set; }
         public override double CalculateArea()
         {
-            throw new NotImplementedException();
+            return Math.PI * Math.Pow(Radius, 2);
         }
 
         public override double CalculatePerimeter()
         {
-            throw new NotImplementedException();
+            return 2 * Math.PI * Radius;
+
         }
+
         public override string Draw()
         {
-            return base.Draw();
+            return base.Draw() + this.GetType().Name;
         }
+
     }
 }

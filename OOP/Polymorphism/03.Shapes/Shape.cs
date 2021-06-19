@@ -4,24 +4,13 @@ namespace Shapes
 {
     public abstract class Shape
     {
-        private double height;
-        private double width;
-
-        public Shape(double height, double widht)
-        {
-            Height = height;
-            Widht = widht;
-        }
-
-        public double Height { get; private set; }
-        public double Widht { get; private set; }
-
         public abstract double CalculatePerimeter();
+
         public abstract double CalculateArea();
 
         public virtual string Draw()
         {
-            return null;
+            return "Drawing ";
         }
     }
 }

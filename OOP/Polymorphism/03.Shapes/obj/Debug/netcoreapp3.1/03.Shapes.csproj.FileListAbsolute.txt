@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/bin/Debug/netcoreapp3.1/03.Shapes.deps.json
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/bin/Debug/netcoreapp3.1/03.Shapes.runtimeconfig.json
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/bin/Debug/netcoreapp3.1/03.Shapes.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/bin/Debug/netcoreapp3.1/03.Shapes.dll
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/bin/Debug/netcoreapp3.1/03.Shapes.pdb
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/obj/Debug/netcoreapp3.1/03.Shapes.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/obj/Debug/netcoreapp3.1/03.Shapes.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/obj/Debug/netcoreapp3.1/03.Shapes.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/obj/Debug/netcoreapp3.1/03.Shapes.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/obj/Debug/netcoreapp3.1/03.Shapes.dll
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/obj/Debug/netcoreapp3.1/03.Shapes.pdb
+/Users/user/Desktop/Softuni/OOP/Polymorphism/03.Shapes/obj/Debug/netcoreapp3.1/03.Shapes.genruntimeconfig.cache
