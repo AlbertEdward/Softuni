@@ -16,5 +16,6 @@ namespace _01.Vehicles
         public double distance { get; set; }
         public object liters { get; set; }
 
+
     }
 }
