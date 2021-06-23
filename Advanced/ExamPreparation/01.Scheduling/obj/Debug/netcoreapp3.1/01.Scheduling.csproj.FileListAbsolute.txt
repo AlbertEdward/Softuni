@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/bin/Debug/netcoreapp3.1/01.Scheduling.deps.json
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/bin/Debug/netcoreapp3.1/01.Scheduling.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/bin/Debug/netcoreapp3.1/01.Scheduling.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/bin/Debug/netcoreapp3.1/01.Scheduling.dll
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/bin/Debug/netcoreapp3.1/01.Scheduling.pdb
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/obj/Debug/netcoreapp3.1/01.Scheduling.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/obj/Debug/netcoreapp3.1/01.Scheduling.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/obj/Debug/netcoreapp3.1/01.Scheduling.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/obj/Debug/netcoreapp3.1/01.Scheduling.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/obj/Debug/netcoreapp3.1/01.Scheduling.dll
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/obj/Debug/netcoreapp3.1/01.Scheduling.pdb
+/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/obj/Debug/netcoreapp3.1/01.Scheduling.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D5903EC5-06F7-4142-8000-8CC989E2F933}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.Scheduling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.Garden/02.Garden.cs">
+    <Files>
+      <File FileName="02.Garden/02.Garden.cs" Line="31" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExamPreparation" expanded="True">
+            <Node name="02.Garden" expanded="True">
+              <Node name="02.Garden.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.Garden PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Desktop/Softuni/Advanced/ExamPreparation/01.Scheduling/01.Scheduling.cs" relfile="01.Scheduling/01.Scheduling.cs" line="22" column="18" />
+      <Breakpoint file="/Users/user/Desktop/Softuni/Advanced/ExamPreparation/02.Garden/02.Garden.cs" relfile="02.Garden/02.Garden.cs" line="29" column="22" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
