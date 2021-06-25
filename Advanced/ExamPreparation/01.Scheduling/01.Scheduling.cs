@@ -26,7 +26,7 @@ namespace _01.Scheduling
                     Console.WriteLine($"Thread with value {threads[i]} killed task {needToKill}");
                     break;
                 }
-                if (threads[i] > tasks[i] )
+                if (threads[i] >= tasks[i])
                 {
                     threads.RemoveAt(i);
                     tasks.RemoveAt(i);
@@ -36,6 +36,7 @@ namespace _01.Scheduling
                 {
                     threads.RemoveAt(i);
                     i--;
+
                 }
             }
 
