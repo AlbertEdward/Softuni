@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/bin/Debug/netcoreapp3.1/01.Masterchef.deps.json
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/bin/Debug/netcoreapp3.1/01.Masterchef.runtimeconfig.json
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/bin/Debug/netcoreapp3.1/01.Masterchef.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/bin/Debug/netcoreapp3.1/01.Masterchef.dll
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/bin/Debug/netcoreapp3.1/01.Masterchef.pdb
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/obj/Debug/netcoreapp3.1/01.Masterchef.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/obj/Debug/netcoreapp3.1/01.Masterchef.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/obj/Debug/netcoreapp3.1/01.Masterchef.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/obj/Debug/netcoreapp3.1/01.Masterchef.dll
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/obj/Debug/netcoreapp3.1/01.Masterchef.pdb
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/obj/Debug/netcoreapp3.1/01.Masterchef.genruntimeconfig.cache
+/Users/user/Desktop/Softuni/Advanced/FinalExam/01.Problem/obj/Debug/netcoreapp3.1/01.Masterchef.csproj.AssemblyReference.cache
