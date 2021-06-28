@@ -24,6 +24,7 @@ namespace _02.Problem
             }
 
 
+
             string[] commands = Console.ReadLine().Split().ToArray();
 
             int tokens = 0;
