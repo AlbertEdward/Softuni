@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Softuni/OOP/Inheritance/InheritanceEx./01.Person/01.Person.csproj": {}
+    "/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/01.Person.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Softuni/OOP/Inheritance/InheritanceEx./01.Person/01.Person.csproj": {
+    "/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/01.Person.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Softuni/OOP/Inheritance/InheritanceEx./01.Person/01.Person.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/01.Person.csproj",
         "projectName": "01.Person",
-        "projectPath": "/Users/user/Desktop/Softuni/OOP/Inheritance/InheritanceEx./01.Person/01.Person.csproj",
+        "projectPath": "/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/01.Person.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Softuni/OOP/Inheritance/InheritanceEx./01.Person/obj/",
+        "outputPath": "/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"

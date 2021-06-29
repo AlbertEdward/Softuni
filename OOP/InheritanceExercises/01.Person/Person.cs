@@ -25,20 +25,23 @@ namespace _01.Person
             {
                 if (value < 0)
                 {
-                    throw new ArgumentException("Gei");
+                    throw new ArgumentException("Wrong age");
                 }
 
-                age = value;           
+                age = value;
             }
         }
-
+        
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
-            sb.Append(string.Format("Name: {0}, Age {1}", this.name, this.age));
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.Append(String.Format("Name: {0}, Age: {1}",
+                                 this.Name,
+                                 this.Age));
 
-            return sb.ToString();
+            return stringBuilder.ToString();
         }
 
-    }   
+
+    }
 }

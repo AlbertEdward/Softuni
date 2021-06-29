@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/bin/Debug/netcoreapp3.1/01.Person.deps.json
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/bin/Debug/netcoreapp3.1/01.Person.runtimeconfig.json
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/bin/Debug/netcoreapp3.1/01.Person.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/bin/Debug/netcoreapp3.1/01.Person.dll
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/bin/Debug/netcoreapp3.1/01.Person.pdb
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/obj/Debug/netcoreapp3.1/01.Person.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/obj/Debug/netcoreapp3.1/01.Person.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/obj/Debug/netcoreapp3.1/01.Person.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/obj/Debug/netcoreapp3.1/01.Person.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/obj/Debug/netcoreapp3.1/01.Person.dll
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/obj/Debug/netcoreapp3.1/01.Person.pdb
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/01.Person/obj/Debug/netcoreapp3.1/01.Person.genruntimeconfig.cache
