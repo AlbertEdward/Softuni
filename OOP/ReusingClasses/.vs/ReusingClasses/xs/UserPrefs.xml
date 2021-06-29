@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B42D26A0-A365-4CD2-8981-DE9FEC50BCF9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.RandomList/RandomList.cs">
+    <Files>
+      <File FileName="04.RandomList/RandomList.cs" Line="14" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.04.RandomList FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
