@@ -1,22 +1,23 @@
 ﻿<Properties StartupConfiguration="{285915AE-D6EF-4E13-930C-4200449ED286}|Default">
   <MonoDevelop.Ide.ItemProperties.01.Person PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="02.Zoo/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NeedForSpeed/Vehicle.cs">
     <Files>
-      <File FileName="02.Zoo/Program.cs" Line="1" Column="1" />
+      <File FileName="NeedForSpeed/Program.cs" Line="5" Column="25" />
+      <File FileName="NeedForSpeed/Vehicle.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InheritanceExercises" expanded="True">
-            <Node name="01.Person" expanded="True" />
-            <Node name="02.Zoo" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="NeedForSpeed" expanded="True">
+              <Node name="Vehicle.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.PlayersAndMonsters FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.02.Zoo FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -24,4 +25,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NeedForSpeed FirstBuild="True" />
 </Properties>
