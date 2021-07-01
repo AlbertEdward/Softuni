@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/bin/Debug/netcoreapp3.1/02.Zoo.deps.json
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/bin/Debug/netcoreapp3.1/02.Zoo.runtimeconfig.json
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/bin/Debug/netcoreapp3.1/02.Zoo.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/bin/Debug/netcoreapp3.1/02.Zoo.dll
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/bin/Debug/netcoreapp3.1/02.Zoo.pdb
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/obj/Debug/netcoreapp3.1/02.Zoo.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/obj/Debug/netcoreapp3.1/02.Zoo.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/obj/Debug/netcoreapp3.1/02.Zoo.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/obj/Debug/netcoreapp3.1/02.Zoo.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/obj/Debug/netcoreapp3.1/02.Zoo.dll
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/obj/Debug/netcoreapp3.1/02.Zoo.pdb
+/Users/user/Desktop/Softuni/OOP/InheritanceExercises/02.Zoo/obj/Debug/netcoreapp3.1/02.Zoo.genruntimeconfig.cache
