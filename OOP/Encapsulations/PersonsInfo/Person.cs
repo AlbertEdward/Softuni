@@ -19,7 +19,6 @@ namespace PersonsInfo
 
         public decimal Salary { get; private set; }
 
-
         public void IncreaseSalary(decimal percentage)
         {
             if (Age > 30)
