@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/bin/Debug/netcoreapp3.1/PersonsInfo.deps.json
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/bin/Debug/netcoreapp3.1/PersonsInfo.runtimeconfig.json
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/bin/Debug/netcoreapp3.1/PersonsInfo.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/bin/Debug/netcoreapp3.1/PersonsInfo.dll
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/bin/Debug/netcoreapp3.1/PersonsInfo.pdb
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/obj/Debug/netcoreapp3.1/PersonsInfo.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/obj/Debug/netcoreapp3.1/PersonsInfo.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/obj/Debug/netcoreapp3.1/PersonsInfo.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/obj/Debug/netcoreapp3.1/PersonsInfo.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/obj/Debug/netcoreapp3.1/PersonsInfo.dll
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/obj/Debug/netcoreapp3.1/PersonsInfo.pdb
+/Users/user/Desktop/Softuni/OOP/Encapsulations/PersonsInfo/obj/Debug/netcoreapp3.1/PersonsInfo.genruntimeconfig.cache

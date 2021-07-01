@@ -1,20 +1,10 @@
 ﻿<Properties StartupConfiguration="{56F5C865-4DE0-4AA9-B4E5-DA504C76FD7D}|Default">
   <MonoDevelop.Ide.ItemProperties.01.Person PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Restaurant/Starter.cs">
-    <Files>
-      <File FileName="Restaurant/Starter.cs" Line="9" Column="1" />
-      <File FileName="Restaurant/Cake.cs" Line="10" Column="44" />
-      <File FileName="Restaurant/Fish.cs" Line="12" Column="6" />
-      <File FileName="Restaurant/Soup.cs" Line="7" Column="13" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="InheritanceExercises" expanded="True">
-            <Node name="Restaurant" expanded="True">
-              <Node name="Starter.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="InheritanceExercises" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
