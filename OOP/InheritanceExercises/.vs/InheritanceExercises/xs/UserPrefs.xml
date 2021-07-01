@@ -1,28 +1,18 @@
 ﻿<Properties StartupConfiguration="{56F5C865-4DE0-4AA9-B4E5-DA504C76FD7D}|Default">
   <MonoDevelop.Ide.ItemProperties.01.Person PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Restaurant/Beverage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Restaurant/Starter.cs">
     <Files>
-      <File FileName="Restaurant/Program.cs" Line="9" Column="13" />
-      <File FileName="Restaurant/Product.cs" Line="13" Column="24" />
-      <File FileName="Restaurant/ColdBeverage.cs" Line="9" Column="6" />
-      <File FileName="Restaurant/Beverage.cs" Line="9" Column="13" />
-      <File FileName="Restaurant/HotBeverage.cs" Line="4" Column="40" />
-      <File FileName="Restaurant/Coffee.cs" Line="16" Column="1" />
-      <File FileName="Restaurant/Tea.cs" Line="4" Column="35" />
-      <File FileName="Restaurant/Food.cs" Line="6" Column="24" />
-      <File FileName="Restaurant/MainDish.cs" Line="4" Column="33" />
-      <File FileName="Restaurant/EmptyClass.cs" Line="6" Column="24" />
-      <File FileName="Restaurant/Starter.cs" Line="4" Column="32" />
-      <File FileName="Restaurant/Cake.cs" Line="18" Column="1" />
-      <File FileName="Restaurant/Fish.cs" Line="15" Column="1" />
-      <File FileName="Restaurant/Soup.cs" Line="11" Column="1" />
+      <File FileName="Restaurant/Starter.cs" Line="9" Column="1" />
+      <File FileName="Restaurant/Cake.cs" Line="10" Column="44" />
+      <File FileName="Restaurant/Fish.cs" Line="12" Column="6" />
+      <File FileName="Restaurant/Soup.cs" Line="7" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InheritanceExercises" expanded="True">
             <Node name="Restaurant" expanded="True">
-              <Node name="Beverage.cs" selected="True" />
+              <Node name="Starter.cs" selected="True" />
             </Node>
           </Node>
         </State>

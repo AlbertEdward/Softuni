@@ -6,6 +6,7 @@ namespace Restaurant
         public Starter(string name, decimal price, double grams)
             : base(name, price, grams)
         {
+
         }
     }
 }
