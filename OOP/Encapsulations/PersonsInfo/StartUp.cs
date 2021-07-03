@@ -20,11 +20,16 @@ namespace PersonsInfo
 
                 persons.Add(person);
             }
-            var parcentage = decimal.Parse(Console.ReadLine());
-            persons.ForEach(p => p.IncreaseSalary(parcentage));
-            persons.ForEach(p => Console.WriteLine(p.ToString()));
+            //var parcentage = decimal.Parse(Console.ReadLine());
+            //persons.ForEach(p => p.IncreaseSalary(parcentage));
+            //persons.ForEach(p => Console.WriteLine(p.ToString()));
 
+            Team team = new Team("SoftUni");
 
+            foreach (Person person in persons)
+            {
+                team.AddPlayer(person);
+            }
         }
 
     }
