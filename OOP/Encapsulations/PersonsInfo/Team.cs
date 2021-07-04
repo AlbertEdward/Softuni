@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace PersonsInfo
 {
@@ -31,13 +32,18 @@ namespace PersonsInfo
         {
             if (person.Age < 40)
             {
-
                 firstTeam.Add(person);
             }
 
             reserveTeam.Add(person);
+        }
 
-            
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"First team has {firstTeam.Count} players.");
+            sb.AppendLine($"Reserve team has {reserveTeam.Count} players.");
+            return sb.ToString().TrimEnd();
         }
     }
 }

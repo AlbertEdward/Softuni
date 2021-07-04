@@ -1,10 +1,5 @@
 ﻿<Properties StartupConfiguration="{3357406D-724D-4E4D-8CF5-9C3E85F41ABE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PersonsInfo/Team.cs">
-    <Files>
-      <File FileName="PersonsInfo/Person.cs" Line="1" Column="1" />
-      <File FileName="PersonsInfo/StartUp.cs" Line="1" Column="1" />
-      <File FileName="PersonsInfo/Team.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
