@@ -1,7 +1,9 @@
 ﻿using System;
-namespace _01.Shapes
+namespace Shapes
 {
     public interface IDrawable
     {
+        void Draw();
+        
     }
 }
