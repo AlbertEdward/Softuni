@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/bin/Debug/netcoreapp3.1/02.Animals.deps.json
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/bin/Debug/netcoreapp3.1/02.Animals.runtimeconfig.json
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/bin/Debug/netcoreapp3.1/02.Animals.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/bin/Debug/netcoreapp3.1/02.Animals.dll
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/bin/Debug/netcoreapp3.1/02.Animals.pdb
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/obj/Debug/netcoreapp3.1/02.Animals.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/obj/Debug/netcoreapp3.1/02.Animals.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/obj/Debug/netcoreapp3.1/02.Animals.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/obj/Debug/netcoreapp3.1/02.Animals.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/obj/Debug/netcoreapp3.1/02.Animals.dll
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/obj/Debug/netcoreapp3.1/02.Animals.pdb
+/Users/user/Desktop/Softuni/OOP/PolymorphismEx./02.Animals/obj/Debug/netcoreapp3.1/02.Animals.genruntimeconfig.cache
