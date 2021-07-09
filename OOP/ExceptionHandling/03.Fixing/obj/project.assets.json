@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Softuni/OOP/ExceptionHandling/01./01.SquareRoot.csproj",
-      "projectName": "01.SquareRoot",
-      "projectPath": "/Users/user/Desktop/Softuni/OOP/ExceptionHandling/01./01.SquareRoot.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/03.Fixing.csproj",
+      "projectName": "03.Fixing",
+      "projectPath": "/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/03.Fixing.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Softuni/OOP/ExceptionHandling/01./obj/",
+      "outputPath": "/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"

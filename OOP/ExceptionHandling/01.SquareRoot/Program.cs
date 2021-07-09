@@ -1,27 +1,30 @@
 ﻿using System;
 
-namespace _01_SquareRoot
+namespace _01.SquareRoot
 {
     class Program
     {
         static void Main(string[] args)
         {
+            int a = 0;
+
             try
             {
-                int a = int.Parse(Console.ReadLine());
-                double b = Math.Sqrt(a);
-                Console.WriteLine(b);
-                return;
+                a = int.Parse(Console.ReadLine());
             }
-            catch (Exception ex)
+            catch (FormatException ex)
             {
                 Console.WriteLine("Invalid number");
+
+                a = int.Parse(Console.ReadLine());
+                
             }
             finally
             {
+                double b = Math.Sqrt(a);
+                Console.WriteLine(b);
                 Console.WriteLine("Good bye");
             }
-            
         }
     }
 }

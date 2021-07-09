@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/bin/Debug/netcoreapp3.1/03.Fixing.deps.json
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/bin/Debug/netcoreapp3.1/03.Fixing.runtimeconfig.json
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/bin/Debug/netcoreapp3.1/03.Fixing.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/bin/Debug/netcoreapp3.1/03.Fixing.dll
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/bin/Debug/netcoreapp3.1/03.Fixing.pdb
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/obj/Debug/netcoreapp3.1/03.Fixing.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/obj/Debug/netcoreapp3.1/03.Fixing.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/obj/Debug/netcoreapp3.1/03.Fixing.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/obj/Debug/netcoreapp3.1/03.Fixing.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/obj/Debug/netcoreapp3.1/03.Fixing.dll
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/obj/Debug/netcoreapp3.1/03.Fixing.pdb
+/Users/user/Desktop/Softuni/OOP/ExceptionHandling/03.Fixing/obj/Debug/netcoreapp3.1/03.Fixing.genruntimeconfig.cache
