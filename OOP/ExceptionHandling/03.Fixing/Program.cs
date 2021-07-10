@@ -29,6 +29,8 @@ namespace _03.Fixing
 
             Console.WriteLine("как си бейбиобоиибиибибибиб");
 
+
+
         }
     }
 }
