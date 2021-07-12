@@ -27,7 +27,8 @@ namespace _03.Fixing
             }
 
 
-            Console.WriteLine("как си бейбиобоиибиибибибиб");
+            Console.WriteLine("как си");
+
 
 
 
