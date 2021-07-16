@@ -7,6 +7,11 @@ namespace _01.StreamProgressInfo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+
+
+
+            sd
         }
     }
 }
