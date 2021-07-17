@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _01.StreamProgressInfo
-{
-    class Program
+namespace Stealer
+{ 
+    class StartUp
     {
         static void Main(string[] args)
         {
@@ -11,7 +11,8 @@ namespace _01.StreamProgressInfo
 
 
 
-            
+
+
         }
     }
 }
