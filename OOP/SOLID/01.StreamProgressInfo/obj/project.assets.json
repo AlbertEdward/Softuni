@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Softuni/OOP/SOLID/01.StreamProgressInfo/01.StreamProgressInfo.csproj",
-      "projectName": "01.StreamProgressInfo",
-      "projectPath": "/Users/user/Desktop/Softuni/OOP/SOLID/01.StreamProgressInfo/01.StreamProgressInfo.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Softuni/OOP/SOLID/01.StreamProgressInfo/Stealer.csproj",
+      "projectName": "Stealer",
+      "projectPath": "/Users/user/Desktop/Softuni/OOP/SOLID/01.StreamProgressInfo/Stealer.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
       "outputPath": "/Users/user/Desktop/Softuni/OOP/SOLID/01.StreamProgressInfo/obj/",
       "projectStyle": "PackageReference",
