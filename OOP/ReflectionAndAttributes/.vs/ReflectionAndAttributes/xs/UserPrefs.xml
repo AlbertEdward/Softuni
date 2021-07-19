@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B5B47058-A851-45F2-81D1-7302899E8E68}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.Stealer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01.Stealer/Program.cs">
+    <Files>
+      <File FileName="01.Stealer/Program.cs" Line="9" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
