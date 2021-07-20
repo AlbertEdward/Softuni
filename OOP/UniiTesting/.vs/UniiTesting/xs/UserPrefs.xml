@@ -1,20 +1,21 @@
-﻿<Properties StartupConfiguration="{B5B47058-A851-45F2-81D1-7302899E8E68}|Default">
-  <MonoDevelop.Ide.ItemProperties.01.Stealer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{BE806F15-0856-4D00-99FE-BF2FF9293AF2}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.TestAxe FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01.TestAxe/Program.cs">
+    <Files>
+      <File FileName="01.TestAxe/Program.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ReflectionAndAttributes" expanded="True">
-            <Node name="01.Stealer" expanded="True">
+          <Node name="UniiTesting" expanded="True">
+            <Node name="01.TestAxe" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="Tests" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Tests FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
