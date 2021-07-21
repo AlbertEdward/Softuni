@@ -10,12 +10,14 @@ namespace Tests
         [Test()]
         public void AxeLoosesDurabilityAfterAttack()
         {
-            Axe axe = new Axe(10, 10);
-            Dummy dummy = new Dummy(10,10);
+            int attack = 5;
+            int durability = 6;
+            Axe axe = new Axe(attack, durability);
 
-            axe.Attack(dummy);
+            Assert.AreEqual(axe.AttackPoints, attack);
+            Assert.AreEqual(axe.DurabilityPoints, durability);
 
-            Assert.That(axe.DurabilityPoints, Is.EqualTo(9), "Durability doesn't changed.");
+
 
         }
     }
