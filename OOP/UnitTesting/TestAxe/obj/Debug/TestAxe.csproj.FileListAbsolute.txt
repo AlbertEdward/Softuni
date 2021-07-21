@@ -1,0 +1,6 @@
+/Users/user/Desktop/Softuni/OOP/UnitTesting/TestAxe/bin/Debug/TestAxe.exe
+/Users/user/Desktop/Softuni/OOP/UnitTesting/TestAxe/bin/Debug/TestAxe.pdb
+/Users/user/Desktop/Softuni/OOP/UnitTesting/TestAxe/obj/Debug/TestAxe.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/UnitTesting/TestAxe/obj/Debug/TestAxe.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/UnitTesting/TestAxe/obj/Debug/TestAxe.exe
+/Users/user/Desktop/Softuni/OOP/UnitTesting/TestAxe/obj/Debug/TestAxe.pdb
