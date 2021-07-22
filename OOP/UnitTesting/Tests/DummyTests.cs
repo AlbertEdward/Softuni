@@ -7,6 +7,15 @@ namespace Tests
     [TestFixture()]
     public class DummyTests
     {
+        private Dummy dummy;
+        private int health = 5;
+        private int experience = 10;
+        [SetUp]
+        public void SetUp()
+        {
+            Dummy dummy = new Dummy(health, experience);
+        }
+
         [Test()]
         public void DummyLoseHealthIfAttacked()
         {
@@ -28,7 +37,13 @@ namespace Tests
 
             dummy.TakeAttack(1);
 
-            Assert.Pass("Success Passed", dummy);
+            Assert.That(() =>
+            {
+                dummy.TakeAttack(1);
+            },
+            Throws.InvalidOperationException.With.Message.EqualTo("Target is not dead."));
+
+            
 
         }
 

@@ -16,9 +16,6 @@ namespace Tests
 
             Assert.AreEqual(axe.AttackPoints, attack);
             Assert.AreEqual(axe.DurabilityPoints, durability);
-
-
-
         }
     }
 }
