@@ -1,11 +1,5 @@
 ﻿<Properties StartupConfiguration="{A1ADBF1B-324D-4896-92DB-2BD806CC09BF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/AxeTests.cs">
-    <Files>
-      <File FileName="TestAxe/Axe.cs" Line="24" Column="1" />
-      <File FileName="TestAxe/Dummy.cs" />
-      <File FileName="Tests/DummyTests.cs" Line="31" Column="50" />
-      <File FileName="Tests/AxeTests.cs" Line="16" Column="29" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -15,11 +9,6 @@
               <Node name="AxeTests.cs" selected="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="UnitTesting" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

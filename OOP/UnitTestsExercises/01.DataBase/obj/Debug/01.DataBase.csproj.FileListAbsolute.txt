@@ -1,0 +1,6 @@
+/Users/user/Desktop/Softuni/OOP/UnitTestsExercises/01.DataBase/obj/Debug/01.DataBase.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/UnitTestsExercises/01.DataBase/obj/Debug/01.DataBase.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/UnitTestsExercises/01.DataBase/bin/Debug/01.DataBase.exe
+/Users/user/Desktop/Softuni/OOP/UnitTestsExercises/01.DataBase/bin/Debug/01.DataBase.pdb
+/Users/user/Desktop/Softuni/OOP/UnitTestsExercises/01.DataBase/obj/Debug/01.DataBase.exe
+/Users/user/Desktop/Softuni/OOP/UnitTestsExercises/01.DataBase/obj/Debug/01.DataBase.pdb
