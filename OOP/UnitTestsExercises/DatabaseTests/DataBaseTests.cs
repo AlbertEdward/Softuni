@@ -1,5 +1,6 @@
 ﻿using NUnit.Framework;
 using System;
+using System.Linq;
 
 namespace DatabaseTests
 {
@@ -38,9 +39,20 @@ namespace DatabaseTests
         [Test]
         public void Remove_()
         {
-            database.Remove();
-
             Assert.Throws<InvalidOperationException>(() => database.Remove());
+        }
+
+        [Test]
+        public void Add_AddElementToDatabase()
+        {
+            int element = 12;
+
+            database.Add(element);
+
+            int[] elements = database.Fetch();
+
+            Assert.IsTrue(elements.Contains(element));
+
         }
     }
 } 
