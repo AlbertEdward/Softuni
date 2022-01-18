@@ -1,0 +1,12 @@
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/bin/Debug/netcoreapp3.1/Exersises.deps.json
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/bin/Debug/netcoreapp3.1/Exersises.runtimeconfig.json
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/bin/Debug/netcoreapp3.1/Exersises.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/bin/Debug/netcoreapp3.1/Exersises.dll
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/bin/Debug/netcoreapp3.1/Exersises.pdb
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/obj/Debug/netcoreapp3.1/Exersises.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/obj/Debug/netcoreapp3.1/Exersises.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/obj/Debug/netcoreapp3.1/Exersises.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/obj/Debug/netcoreapp3.1/Exersises.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/obj/Debug/netcoreapp3.1/Exersises.dll
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/obj/Debug/netcoreapp3.1/Exersises.pdb
+/Users/user/Desktop/Softuni/OOP/Exersises/Exersises/obj/Debug/netcoreapp3.1/Exersises.genruntimeconfig.cache

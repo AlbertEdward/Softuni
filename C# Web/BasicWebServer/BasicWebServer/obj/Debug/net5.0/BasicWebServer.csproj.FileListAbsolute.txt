@@ -1,0 +1,15 @@
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/bin/Debug/net5.0/BasicWebServer.deps.json
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/bin/Debug/net5.0/BasicWebServer.runtimeconfig.json
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/bin/Debug/net5.0/BasicWebServer.runtimeconfig.dev.json
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/bin/Debug/net5.0/BasicWebServer.dll
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/bin/Debug/net5.0/ref/BasicWebServer.dll
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/bin/Debug/net5.0/BasicWebServer.pdb
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/obj/Debug/net5.0/BasicWebServer.csproj.AssemblyReference.cache
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/obj/Debug/net5.0/BasicWebServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/obj/Debug/net5.0/BasicWebServer.AssemblyInfoInputs.cache
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/obj/Debug/net5.0/BasicWebServer.AssemblyInfo.cs
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/obj/Debug/net5.0/BasicWebServer.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/obj/Debug/net5.0/BasicWebServer.dll
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/obj/Debug/net5.0/ref/BasicWebServer.dll
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/obj/Debug/net5.0/BasicWebServer.pdb
+/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/obj/Debug/net5.0/BasicWebServer.genruntimeconfig.cache
