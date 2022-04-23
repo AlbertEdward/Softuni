@@ -6,15 +6,21 @@ namespace Shapes
     {
         static void Main(string[] args)
         {
-            var radius = int.Parse(Console.ReadLine());
-            Shape circle = new Circle(radius);
 
-            var width = int.Parse(Console.ReadLine());
-            var heigth = int.Parse(Console.ReadLine());
-            Shape rect = new Rectangle(width, heigth);
+            int n = int.Parse(Console.ReadLine());
 
-            circle.Draw();
-            Console.WriteLine(rect.Draw());
+            var star = '*';
+            var newLine = '\n';
+
+            for (int col = 0; col < n; col++)
+            {
+
+                for (int row = 0; row < n; row++)
+                {
+                    Console.Write(star);
+                }
+                Console.WriteLine(newLine);
+            }
         }
     }
 }

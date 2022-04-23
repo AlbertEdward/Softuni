@@ -1,23 +1,12 @@
 ﻿<Properties StartupConfiguration="{9F4BD6CB-DF1F-4160-BEB4-12C6B06607E4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BasicWebServer/Program.cs">
-    <Files>
-      <File FileName="BasicWebServer/Program.cs" Line="15" Column="1" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="BasicWebServer" expanded="True">
-            <Node name="BasicWebServer" expanded="True" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.BasicWebServer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BasicWebServer PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Desktop/Softuni/C# Web/BasicWebServer/BasicWebServer/Program.cs" relfile="BasicWebServer/Program.cs" line="22" column="9" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
